@@ -15,9 +15,9 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  social_links:
-    twitter: derykmakgill
-    github:  derykmakgill
+#  social_links:
+    #twitter: derykmakgill
+    #github:  derykmakgill
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -28,7 +28,7 @@ minima:
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    telegram: makgill
+    # telegram: makgill
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
