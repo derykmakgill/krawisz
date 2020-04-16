@@ -11,11 +11,11 @@ title: About
 
 <p>I maintain <a href="https://github.com/FionaVoss/we-pair">We Pair</a>, a crowd-sourced list of companies that pair program.</p>
 
-<h2 id="how-to-subscribe">How to subscribe</h1>
+<h2 id="how-to-subscribe">How to subscribe</h2>
 
 <p>You can subscribe via <a href="/feed.xml">RSS</a> or follow me on <a href="https://micro.blog/fiona">Micro.blog</a> or <a href="https://twitter.com/fionajvoss">Twitter</a>.</p>
 
-<h2 id="this-blogs-stack">This blog’s stack</h1>
+<h2 id="this-blogs-stack">This blog’s stack</h2>
 
 <ul>
   <li><a href="https://github.com/FionaVoss/fionavoss.github.io">Source code here</a></li>
