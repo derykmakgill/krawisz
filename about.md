@@ -1,4 +1,4 @@
 ---
 layout: page
-title: About Deryk
+title: About
 ---
