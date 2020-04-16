@@ -59,3 +59,12 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+autopages:
+  enabled: true
+  categories:
+    title: 'Posts in category :cat'
+  tags:
+    title: 'Posts tagged with :tag'
+  collections:
+    title: 'Posts in collection :coll'
