@@ -34,7 +34,7 @@ layout: default
           <img src="{{ page.image | relative_url }}" alt="{{ page.alt }}">
           
         </a>
-      </div>
+        
       {% endif %}  
   
   {% if page.caption %}
@@ -45,7 +45,7 @@ layout: default
     {{ content }}
         {% include tags.html %}
   </div>
-
+ </div>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
