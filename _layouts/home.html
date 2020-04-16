@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  
+  <header class="blurb" style="
+    border-bottom: 1px solid #f5f5f5;
+    padding-bottom: 20px;
+"><div class="container" style="
+    /* border-bottom: 1px solid #f5f5f5; */
+    /* padding-bottom: 20px; */
+    max-width: 740px;
+    margin: auto;
+"><img alt="Susty WP logo" src="https://pbs.twimg.com/profile_images/1226668761916166146/ZnZrRCcn_400x400.jpg" style="
+    border-radius: 100%;
+    float: right;
+    max-width: 30%;
+"><h1>Hello, I'm Deryk</h1><article class="content"><p>I am a Web Developer based in The Midlands, UK.</p><p><a href="/about">I have over 15 years of full stack development, from database to deployment, across a range of technologies.</a></p><p><a href="/#posts">This blog </a>has been active since 2010, and documents a great portion of my career as a developer.
+It is my way of giving something back to the development community.</p><p style="
+    /* border-bottom: 1px solid #f5f5f5; */
+    /* padding-bottom: 20px; */
+">It's not about the technology, it's about the delivery.
+</p></article></div></header>
+  
+
+  {{ content }}
+
+
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%}
+
+</div>
