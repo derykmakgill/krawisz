@@ -1,8 +1,10 @@
 ---
 layout: default
+permalink: /404.html
+title: 404
 ---
 
-# That John Denver was full of shit, man
+<h2>That John Denver was full of shit, man...</h2>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
