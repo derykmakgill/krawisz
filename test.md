@@ -31,3 +31,10 @@ fly as a long term rate. So many monetary transactions happen in the course
 of business that even a 4% fee _per transaction_ would rapidly wipe out
 most of the value.
 
+#### 02 May 1997
+
+Blockstream founder and Hashcash inventor Adam Back [writes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/ef17e389556d2b6e27e8e0036a85ce1fedc73e2de871cc30728e7fc8be3d7f09/) 
+on the Cypherpunk Mailing List that a successful digital cash project must be ultra low cost to transact with.
+
+>What we want is fully anonymous, *ultra low transaction cost,* transferable units of exchange.  If we get that going the banks will become the obsolete dinasaurs they deserve to become.
+
