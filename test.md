@@ -23,7 +23,7 @@ conditions.
 #### 30 Oct 1995
 
 Creator of the Cypherpunk Mailing List Timothy C. May [responds](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
-in agreement:
+in agreement.
 
 >I don't know if the "skims off 4% to 10% every time" point accurately
 describes how the current Digicash model works, but certainly this will not
