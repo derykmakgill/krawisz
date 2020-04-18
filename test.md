@@ -40,7 +40,19 @@ on the Cypherpunk Mailing List that a successful digital cash project must be ul
 
 #### 19 Jul 2011
 
-r/bitcoin owner Atlas is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed. Theymos becomes the moderator.
+r/bitcoin moderator Atlas is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
+
+Theymos becomes the new sole moderator and refuses to allow the old ones back in. We see him as the sole moderator on the WayBack machine in [September 2011.](https://web.archive.org/web/20110927021847/https://www.reddit.com/r/Bitcoin/new/)
+
+Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/comments/84djb8/did_theymos_purchase_rbitcoin_in_2011/dvqcdvp?utm_source=share&utm_medium=web2x) the story years later: 
+
+>Atlas was basically inactive - it seemed the modding was going just fine (it was a very positive community in those early days) but then one day without any warning we were all kicked. It seems atlas was chatting with people over IRC and they were like how can you sell it? and he booted all the other mods in preparation for a sale.
+>
+>This caused a total shitstorm, as you can imagine, and the community basically shouted loud enough that the orig mod backed down and agreed to hand it over to whoever the community decided, which was theymos.
+>
+>Theymos wasn't much better - wouldn't re-add any of the kicked mods and held it alone himself on some kind of power trip. Things got quite unfriendly after that - partially because theymos is a typical angry asshole libertarian, and partially because the scene grew so much that it was hard to maintain a close community.
+>
+>After a while of lobbying to get back in and failing, I gave up on it but I still feel disabused by that situation. I put a lot of good work into making bitcoin and r/bitcoin what it is today. We were all crazy wide-eyed zealots back then shouting it from the rooftops. I figured I at least deserved some kind of explanation, let alone my modship (which, let's face it is a somewhat useful position in the btc world).
 
 #### 07 Sept 2015
 
