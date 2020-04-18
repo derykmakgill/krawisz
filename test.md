@@ -42,6 +42,16 @@ on the Cypherpunk Mailing List that a successful digital cash project must be ul
 
 r/bitcoin owner Atlas is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed. Theymos becomes the moderator.
 
+#### 07 Sept 2015
+
+r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services.
+
+The response was largely outrage, the most [popular reply](https://www.reddit.com/r/Bitcoin/comments/3k0iji/i_am_no_longer_a_mod_of_rbitcoin_i_didnt_have/cuturbe?utm_source=share&utm_medium=web2x) suggesting Theymos appoint Hitler, Stalin and Mao as moderators. A now deleted user [wrote:](https://www.reddit.com/r/Bitcoin/comments/3k0iji/i_am_no_longer_a_mod_of_rbitcoin_i_didnt_have/cutuscp?utm_source=share&utm_medium=web2x)
+
+>I believe that's because Theymos is hand-selecting mods only who follow in his exact instructions and censorship. They have to be devoted minions or they will be removed.
+
+Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike are right'](https://www.reddit.com/r/Bitcoin/comments/3jgtjl/i_support_bip101/cuqdm54/?context=3) in [BIP 101,](https://github.com/bitcoin/bips/blob/master/bip-0101.mediawiki) a proposal to raise the Bitcoin block size. 
+
 #### 11 Sept 2017
 
 Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
