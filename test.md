@@ -42,7 +42,7 @@ on the Cypherpunk Mailing List that a successful digital cash project must be ul
 
 r/bitcoin moderator u/AtlasLGo is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
 
-Theymos becomes the new sole moderator and refuses to allow the old ones back in. We see him as the sole moderator on the WayBack machine in [September 2011.](https://web.archive.org/web/20110927021847/https://www.reddit.com/r/Bitcoin/new/)
+Theymos becomes the new sole [moderator](https://bitcointalk.org/index.php?topic=30211.msg381922#msg381922) and refuses to allow the old ones back in. We see him as the sole moderator on the WayBack machine in [September 2011.](https://web.archive.org/web/20110927021847/https://www.reddit.com/r/Bitcoin/new/)
 
 Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/comments/84djb8/did_theymos_purchase_rbitcoin_in_2011/dvqcdvp?utm_source=share&utm_medium=web2x) the story years later: 
 
