@@ -13,9 +13,9 @@ the early electronic cash for having high fees.
 
 >While Chaum is a brilliant cryptographer, he is an incompetent businessman
 >
-He has demonstrated this in numerous ways.
+>He has demonstrated this in numerous ways.
 >
-The latest being "Cash" where the bank skims off 4% to 10% every time.
+>The latest being "Cash" where the bank skims off 4% to 10% every time.
 >
 >No one is going to use digicash under these kinds of terms and 
 conditions.
