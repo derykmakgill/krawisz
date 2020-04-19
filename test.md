@@ -123,6 +123,12 @@ The response was largely outrage, the most [popular reply](https://www.reddit.co
 
 Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike are right'](https://www.reddit.com/r/Bitcoin/comments/3jgtjl/i_support_bip101/cuqdm54/?context=3) in [BIP 101,](https://github.com/bitcoin/bips/blob/master/bip-0101.mediawiki) a proposal to raise the Bitcoin block size. 
 
+#### 26 January 2016
+
+Greg Maxwell posts defending the [censorship in r/Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/42u1v8/core_devs_communication_has_improved_thank_you/czdesxq/)
+
+> r/btc at this moment is smoking hot proof that r/bitcoin is doing something right and that it's not just a question of moderator punishment.
+
 #### 11 September 2017
 
 Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
