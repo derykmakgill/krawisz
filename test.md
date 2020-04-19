@@ -92,9 +92,9 @@ Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, so
 >Today he seemed to indicate he has no intention of following our policies:
 >
 >- "Like I give a crap about being blocked, it doesn't even inhibit me from editing." 
-- "Man. You think I've stopped because I'm blocked? Please! Blocking doesn't actually stop anyone but twits!" 
--"You're still wrong about me being blocked accomplishing *anything*, since I can still edit whenever I please... in fact, being blocked gives me far less incentive to be nice about it, in so far as there can be far less than nearly none at all." 
--"I feel great because I can still do what I want, and I don't have to worry what rude jerks think about me ... I can continue to do whatever I think is right without the burden of explaining myself to a shreaking [sic] mass of people." 
+>- "Man. You think I've stopped because I'm blocked? Please! Blocking doesn't actually stop anyone but twits!" 
+>-"You're still wrong about me being blocked accomplishing *anything*, since I can still edit whenever I please... in fact, >being blocked gives me far less incentive to be nice about it, in so far as there can be far less than nearly none at all." 
+>-"I feel great because I can still do what I want, and I don't have to worry what rude jerks think about me ... I can >continue to do whatever I think is right without the burden of explaining myself to a shreaking [sic] mass of people." 
 >
 >That's not even to mention the personal attacks.
 
