@@ -113,6 +113,20 @@ In an article translated on Medium, the miners argue:
 
 >If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
 
+#### 13 August 2015
+
+/u/aminok has his post [(archive)](https://archive.is/E75Cx#selection-1969.95-1969.299) deleted, in which he asked the mods: “please don’t try to impose your will on the Bitcoin community.” 
+
+>Allow posts that promote hard forks in the sub. A hard fork to raise the hard limit has been part of the development plan for Bitcoin since 2010. Posts about it are entirely appropriate for this subreddit.
+
+He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/comments/3gxup6/another_meta_post_deleted_in_rbitcoin_what_can_we/cu2j0ea?utm_source=share&utm_medium=web2x) he received from the moderrators about it in an uncensored Bitcoin subreddit.
+
+>Regarding the specific post that was removed: There have been several front-page posts about r/Bitcoin's XT-related moderation over the last few days. Your post added nothing to this discussion and was generally repetitive. See the rules:
+>
+>Please avoid repetition — r/bitcoin is a subreddit devoted to new information and discussion about Bitcoin and its ecosystem.
+>
+>Even if you think that something is important, you can't keep bringing it up day after day on r/Bitcoin without some significant+notable additional thoughts/news. It might get upvoted, but overall it's annoying and hurts the usability of r/Bitcoin.
+
 #### 07 September 2015
 
 r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services.
