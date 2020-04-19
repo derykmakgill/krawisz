@@ -77,6 +77,14 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 >
 >After a while of lobbying to get back in and failing, I gave up on it but I still feel disabused by that situation. I put a lot of good work into making bitcoin and r/bitcoin what it is today. We were all crazy wide-eyed zealots back then shouting it from the rooftops. I figured I at least deserved some kind of explanation, let alone my modship (which, let's face it is a somewhat useful position in the btc world).
 
+#### 12 June 2015
+
+![https://hackernoon.com/hn-images/0*RmYRQ3jtGw4JQgJN.](Chinese Miners Wanted 8MB Blocks)
+
+Chinese miners signed a statement that they want 8MB blocks. Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
+
+>If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
+
 #### 07 September 2015
 
 r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services.
