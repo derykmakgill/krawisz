@@ -61,6 +61,26 @@ as well as costs of better communicating product quality versus price tradeoffs
 in the user interface, are usually more important ob jectives for technological
 cost reduction than conserving on computational or network resources.
 
+#### 14 July 2010
+
+A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client.
+
+#### 22 July 2010
+
+The Bitcoin.org website on [Wayback Archive](https://web.archive.org/web/20100722094110/http://www.bitcoin.org:80/) lists the main advantages of Bitcoin on the homepage. In bold, it says:
+
+> Bitcoin transactions are practically free, whereas credit cards and online payment systems typically cost 1-5% per transaction plus various other merchant fees up to hundreds of dollars.
+
+#### 19 September 2010
+
+After some discussion, Hal Finney, Satoshi (Bitcoin’s creator), and the user ‘Cryddit,’ who is Ray Dallingerr, on Bitcointalk imposed a [1MB default block size](https://github.com/bitcoin/bitcoin/commit/172f006020965ae8763a0610845c051ed1e3b522) to reduce the chance of spam transactions hijacking blockspace, or the possibility of cheap DoS attacks. [Cryddit below explains why this limit was put in place:](https://bitcointalk.org/index.php?topic=946236.msg10388435#msg10388435)
+
+>I'm the guy who went over the blockchain stuff in Satoshi's first cut of the bitcoin code.  Satoshi didn't have a 1MB limit in it. The limit was originally Hal Finney's idea.  Both Satoshi and I objected that it wouldn't scale at 1MB.  Hal was concerned about a potential DoS attack though, and after discussion, Satoshi agreed.  The 1MB limit was there by the time Bitcoin launched.  But all 3 of us agreed that 1MB had to be temporary because it would never scale.
+>
+>Several attempted "abuses" of the blockchain under the 1MB limit have proved Hal right about needing the limit at least for launching purposes.  A lot of people wanted to piggyback extraneous information onto the blockchain, and before miners (and the community generally) realized that blockchain space was a valuable resource they would have allowed it.  The blockchain would probably be several times as big a download now if that limit hadn't been in place, because it would have a lot of random 1-satoshi transactions that exist only to encode information for altcoins etc.
+>
+>At this point I don't think random schmoes who would allow just any transaction are getting a  lot of blocks. The people who have made a major investment in hashing power are doing the math to figure out which tx are worthwhile to include because block propagation time (and therefore the risk of orphan blocks) is proportional to block size. So at this point I think blockchain bloat as such is no longer likely to a problem, and the 1MB limit is no longer necessary.  It has been more-or-less replaced by a profitability limit that motivates people to not waste blockchain bandwidth, and miners are now reliably dropping transactions that don't pay fees. 
+
 #### 19 July 2011
 
 r/bitcoin moderator u/AtlasLGo is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
