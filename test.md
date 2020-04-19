@@ -129,6 +129,40 @@ The response was largely outrage, the most [popular reply](https://www.reddit.co
 
 Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike are right'](https://www.reddit.com/r/Bitcoin/comments/3jgtjl/i_support_bip101/cuqdm54/?context=3) in [BIP 101,](https://github.com/bitcoin/bips/blob/master/bip-0101.mediawiki) a proposal to raise the Bitcoin block size. 
 
+#### 28 December 2015. 
+
+A rogue /r/bitcoin mod going by the username /u/CensorshipIsTheWorst leaked the following conversation from the /r/Bitcoin mod-mail:
+
+>from Aussiehash [M] to /r/Bitcoin sent 1 day ago https://np.reddit.com/r/Bitcoin/comments/3ycayp/brian_armstrong_on_twitter_coinbase_is_now/ I’ve removed this post for now. I’m happy for other mods to reverse or otherwise.
+>
+>from theymos [M] via /r/Bitcoin to Aussiehash [M] sent 11 hours ago I agree with removing it because it is mainly about XT. However, AFAICT Coinbase is currently still using Bitcoin and should therefore be allowed on /r/Bitcoinfor now in general. coblee said so in the bitcoin.org pull request, and I tend to trust him. (Perhaps Cobra was unaware of coblee’s reliability, or maybe he [IMO reasonably] considered Coinbase too dangerous/incompetent/reckless to list on bitcoin.org even though they are currently using Bitcoin.)
+
+>from StarMaged [M] via /r/Bitcoin to theymos [M] sent 5 hours ago Honestly, it seems to me that until the moment of the split, they are still a bitcoin company. They are just buying/selling two currencies at once instead of one. I am really uncomfortable with the idea that this policy would encourage companies to silently support XT and then only tell us at the last moment. Yeah, sure, remove those posts as altcoin promotion, but people outside of this subreddit should be allowed to make an informed decision without us scaring companies into censoring themselves. I feel that this is where that term “censorship” might actually be relevant, since our actions here on this issue would affect the speech of a company elsewhere out of fear of retaliation from this subreddit. Something to ponder.
+
+A few hours later, /u/colsatre had his moderator position revoked, leading some to speculate that he was the rogue mod. /u/CensorshipIsTheWorst never posted again.
+
+/u/colsatre wrote later under his own account critisizing Theymos for censorship and said he was removed for not following the [party line.](https://www.reddit.com/r/btc/comments/40rqrd/ustarmageds_last_action_as_a_mod_was_great_but/cywu8nz?utm_source=share&utm_medium=web2x)
+
+>I didn't leave of my own volition either. Other mods, specifically theymos, weren't happy with actions I took.
+
+>I'm not a fan of sticking around a place where dissenting opinions are liable to be removed...
+
+>I'm one of the regulars from back then that /u/Shadered mentioned, I was a mod here on r/Bitcoin and bitcointalk for a while. Those places are no longer for me!
+
+>He's either extremely incompetent or malicious with the way he went about it. There was no discussion with the rest of the forum staff before giving money to Slickage.
+>
+>I find it hard to believe that he'd be that stupid. He also refused to answer any questions about it afterwards, which leads me to believe he did something that he knew was shady.
+>
+>Source - Was a mod of bitcointalk at the time it happened
+
+On an article documenting some of the censorship on r/Bitcoin over the years, he [commented:](https://www.reddit.com/r/btc/comments/5cue13/john_blocke_a_brief_and_incomplete_history_of/d9zzmkq?utm_source=share&utm_medium=web2x)
+
+>Seems to be a very good and accurate write-up!
+
+He also supported [raising the Bitcoin block size to 2mb.](https://www.reddit.com/r/Bitcoin/comments/5q1v0q/are_your_transactions_slow_to_confirm_then_ask/dcvseif?utm_source=share&utm_medium=web2x)
+
+>Can't we just bump the block size to 2mb?
+
 #### 08 January 2016
 
 A thread in r/Bitcoin titled *Scalability issue is a red-herring* argues Bitcoin is a store of value first and by implication suggests we don't need to raise the block size. The thread has 51 comments and zero upvotes.
