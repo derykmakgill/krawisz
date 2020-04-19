@@ -127,6 +127,24 @@ He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/commen
 >
 >Even if you think that something is important, you can't keep bringing it up day after day on r/Bitcoin without some significant+notable additional thoughts/news. It might get upvoted, but overall it's annoying and hurts the usability of r/Bitcoin.
 
+#### 16 August 2016
+
+A popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. Some of the comics he made over the years are archived below.
+
+![The Hypocrisy of a Thermos](https://i.imgur.com/2uDkC6g.jpg?1)
+
+![There Is No Fork](https://i.imgur.com/ICFiTVO.jpg?1)
+
+A now-deleted user responds in the thread [confirming he was banned](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/cu5a6so?utm_source=share&utm_medium=web2x) on the same day for posting that raising the block size does not make Bitcoin an 'altcoin.'
+
+>I was just banned as well for... linking to a post that explained why bitcoin XT was not an altcoin (I'm assuming... there was no reason given yet).
+>
+>To me it's clear that they are seeing the stats on xtnodes.com and are shitting their pants. Five days ago thermos said "the actual chance of XT defeating Bitcoin is nearly zero." https://www.reddit.com/r/Bitcoin/comments/3gjrvy/could_we_have_a_sticky_on_the_new_rules_their/ctzoeyt
+>
+>Now, I understand this graph is just getting started, but it doesn't look good for them 24 hours in:
+>
+>http://www.xtnodes.com
+
 #### 07 September 2015
 
 r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services.
