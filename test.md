@@ -129,7 +129,7 @@ He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/commen
 
 #### 16 August 2016
 
-A popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. Some of the comics he made over the years are archived below.
+A popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. The two comics he made are archived below.
 
 ![The Hypocrisy of a Thermos](https://i.imgur.com/2uDkC6g.jpg?1)
 
@@ -154,6 +154,10 @@ The response was largely outrage, the most [popular reply](https://www.reddit.co
 >I believe that's because Theymos is hand-selecting mods only who follow in his exact instructions and censorship. They have to be devoted minions or they will be removed.
 
 Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike are right'](https://www.reddit.com/r/Bitcoin/comments/3jgtjl/i_support_bip101/cuqdm54/?context=3) in [BIP 101,](https://github.com/bitcoin/bips/blob/master/bip-0101.mediawiki) a proposal to raise the Bitcoin block size. 
+
+#### 05 October 2015
+
+/u/raisethelimit is [banned permanentely](https://www.reddit.com/r/bitcoinxt/comments/3njzfz/ive_been_banned_too/cvoqzof?utm_source=share&utm_medium=web2x) from r/bitcoin.
 
 #### 28 December 2015. 
 
