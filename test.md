@@ -79,7 +79,7 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 
 #### 12 June 2015
 
-![https://miro.medium.com/max/1400/0*3fpU-5KaDHJjXFao.]
+![https://external-preview.redd.it/LW--hNOfGYxrDDKIJ-doRx0jBXovCdsBIFu8vChuOTQ.jpg?width=640&crop=smart&auto=webp&s=eebb3a9f4edd942d83e3d3af1c1854379245154c](Chinese Minerrs Want Big Bloocks)
 
 Chinese miners signed a statement that they want 8MB blocks. Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
 
