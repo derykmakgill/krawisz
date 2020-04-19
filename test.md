@@ -131,6 +131,8 @@ He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/commen
 
 A popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. The two comics he made are archived below.
 
+The first comic listed references things Theymos himself said in the past in favor of raising the block size and suggests he may have been paid off by Blockstream to pretend otherwise.
+
 ![The Hypocrisy of a Thermos](https://i.imgur.com/2uDkC6g.jpg?1)
 
 ![There Is No Fork](https://i.imgur.com/ICFiTVO.jpg?1)
