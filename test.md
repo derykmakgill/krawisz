@@ -81,6 +81,12 @@ After some discussion, Hal Finney, Satoshi (Bitcoinâ€™s creator), and the user â
 >
 >At this point I don't think random schmoes who would allow just any transaction are getting a  lot of blocks. The people who have made a major investment in hashing power are doing the math to figure out which tx are worthwhile to include because block propagation time (and therefore the risk of orphan blocks) is proportional to block size. So at this point I think blockchain bloat as such is no longer likely to a problem, and the 1MB limit is no longer necessary.  It has been more-or-less replaced by a profitability limit that motivates people to not waste blockchain bandwidth, and miners are now reliably dropping transactions that don't pay fees. 
 
+#### 01 December 2010
+
+One of the [earliest posts](https://www.reddit.com/r/Bitcoin/comments/eef3h/a_short_introduction_to_bitcoin_a_peer_to_peer/) on r/Bitcoin is made linking to an article titlted *A Short Introduction to Bitcoin - A Peer to Peer Cryptocurrency.* The [linked article](https://bluishcoder.co.nz/2010/10/10/a-short-introduction-to-bitcoin.html) describes the author's interest in Bitcoin's ability to offer micropayments.
+
+>I'm interested in the approach of using bitcoin as a way to do micro-transactions and ease online payments and donations.
+
 #### 19 July 2011
 
 r/bitcoin moderator u/AtlasLGo is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
