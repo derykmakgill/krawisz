@@ -79,7 +79,7 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 
 #### 12 June 2015
 
-![https://hackernoon.com/hn-images/0*RmYRQ3jtGw4JQgJN.](Chinese Miners Wanted 8MB Blocks)
+![https://hackernoon.com/hn-images/0*RmYRQ3jtGw4JQgJN.]
 
 Chinese miners signed a statement that they want 8MB blocks. Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
 
