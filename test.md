@@ -79,9 +79,9 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 
 #### 12 June 2015
 
-![Miners Want Big Blocks](https://miro.medium.com/max/1400/0*3fpU-5KaDHJjXFao.)
-
 Chinese miners signed a statement that they want 8MB blocks. Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
+
+![Miners Want Big Blocks](https://miro.medium.com/max/1400/0*3fpU-5KaDHJjXFao.)
 
 >If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
 
