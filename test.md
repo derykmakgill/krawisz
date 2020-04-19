@@ -103,6 +103,12 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 >
 >After a while of lobbying to get back in and failing, I gave up on it but I still feel disabused by that situation. I put a lot of good work into making bitcoin and r/bitcoin what it is today. We were all crazy wide-eyed zealots back then shouting it from the rooftops. I figured I at least deserved some kind of explanation, let alone my modship (which, let's face it is a somewhat useful position in the btc world).
 
+#### May 7th, 2015. 
+
+Using a tool called http://removeddit.com/, we can see a large number of deleted comments in a thread on increasing the block size, all of which were in favor of it. Comments that apparently didn't meet moderation standards included:
+
+http://removeddit.com/r/Bitcoin/comments/404z6b/scalability_issue_is_a_redherring/
+
 #### 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
@@ -122,6 +128,24 @@ The response was largely outrage, the most [popular reply](https://www.reddit.co
 >I believe that's because Theymos is hand-selecting mods only who follow in his exact instructions and censorship. They have to be devoted minions or they will be removed.
 
 Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike are right'](https://www.reddit.com/r/Bitcoin/comments/3jgtjl/i_support_bip101/cuqdm54/?context=3) in [BIP 101,](https://github.com/bitcoin/bips/blob/master/bip-0101.mediawiki) a proposal to raise the Bitcoin block size. 
+
+#### 08 January 2016
+
+A thread in r/Bitcoin titled *Scalability issue is a red-herring* argues Bitcoin is a store of value first and by implication suggests we don't need to raise the block size. The thread has 51 comments and zero upvotes.
+
+Theymos comments in agreement and is heavily downvoted.
+
+>If that requires treating bitcoins like Yap stones, that's still better than what we had before Bitcoin.
+
+u/Uber_Nick responds, questioning Theymos on deleting comments he disagrees with.
+
+>Does "better and freer" mean users won't be banned from discussing ideas that are different than yours?
+
+Theymos replies and is heavily downvoted.
+
+>No one is ever banned for discussing ideas that are different than mine. Banning someone for that reason would be completely at odds with my philosophy of moderation.
+
+Seems rational? But when we use the [Removeddit tool,](http://removeddit.com/r/Bitcoin/comments/404z6b/scalability_issue_is_a_redherring/) we can see 24% of the comments on the entire are removed, most of which appear to have been in response to Theymos' defense of his moderation policies.
 
 #### 26 January 2016
 
