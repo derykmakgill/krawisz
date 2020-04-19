@@ -271,6 +271,31 @@ Greg Maxwell posts defending the [censorship in r/Bitcoin.](https://www.reddit.c
 
 > r/btc at this moment is smoking hot proof that r/bitcoin is doing something right and that it's not just a question of moderator punishment.
 
+#### 09 May 2016
+
+Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
+
+#### 19 July 2016
+
+Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2016/07/19/en-blockstream-defensive-patent-strategy/)
+
+>Ensuring that permissionless innovation continues to be the driving force in our space requires an approach that not only accounts for the increasingly complex realities of today but also of tomorrow.
+>
+>That is why we are taking steps to implement a defensive patent strategy.
+
+#### 22 August 2017
+
+Bitcoin Core developer Eric Lombrozo calls the Segwit 2x initiatve an 'cyberattack' on Bitcoin and [threatens legal and technical action against it.](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-August/000259.html)
+
+>To be clear, it isn't up to any of us. A good portion of the community
+wants to keep the legacy chain. NYA signers are free to create a hard fork,
+but not adding replay protection suggests intent to destroy the legacy
+chain. As long as a lot of people still want the legacy chain, attempts to
+destroy it will be treated as an attack on the property of all these
+people. It constitutes a serious cyberattack and decisive action against
+it, both technical and legal, has been prepared.
+
+
 #### 11 September 2017
 
 Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
