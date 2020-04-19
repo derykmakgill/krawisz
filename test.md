@@ -103,12 +103,6 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 >
 >After a while of lobbying to get back in and failing, I gave up on it but I still feel disabused by that situation. I put a lot of good work into making bitcoin and r/bitcoin what it is today. We were all crazy wide-eyed zealots back then shouting it from the rooftops. I figured I at least deserved some kind of explanation, let alone my modship (which, let's face it is a somewhat useful position in the btc world).
 
-#### May 7th, 2015. 
-
-Using a tool called http://removeddit.com/, we can see a large number of deleted comments in a thread on increasing the block size, all of which were in favor of it. Comments that apparently didn't meet moderation standards included:
-
-http://removeddit.com/r/Bitcoin/comments/404z6b/scalability_issue_is_a_redherring/
-
 #### 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
