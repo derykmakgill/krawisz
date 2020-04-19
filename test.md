@@ -271,4 +271,14 @@ Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comme
 >
 >As described in the S-1 filing for the "Bitcoin Investment Trust" (BIT), a "permanent fork" of Bitcoin may occur when two groups of users disagree as to the rules which define the system (its "consensus rules"). More specifically, such a "permanent fork" is likely to occur when one group of users wish to make a change to Bitcoin's consensus rules, while another group does not. This leads to two cryptocurrencies, and may lead to significant ambiguity around which should be referred to as "Bitcoin".
 
+#### 12 December 2019
 
+Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
+
+>I feel like this subject could get adequately covered as part of a broader article on consensusless decenteralized payment systems, but considering that lightning is the only such system with even moderately wide deployment and that there aren't a lot of secondary sources on the broader idea... that gets in the way of covering it that way.  There are a lot of bit-rotten obscure cryptocurrency articles that should probably be removed [https://en.wikipedia.org/wiki/Talk:Bitcoin_XT#Bitcoin_XT_is_long_defunct_and_the_article_is_massively_out_of_date,_should_this_be_deleted?]
+
+#### 17 February 2020
+
+Greg Maxwell [threatens](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_ver_escaped_taxes/fhzg431?utm_source=share&utm_medium=web2x) to report Roger Ver to the federal government.
+
+>Surely you didn't conceal your assets... that would have been extraordinarily unwise considering how widely you have bragged about your holdings, especially considering that the IRS will pay whistleblowers up to 30% of the underpayment when the total under-paid is at least $2m. But if you did disclose your assets you should be on the list?
