@@ -67,9 +67,9 @@ Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, so
 
 >(Copied from WP:AN/3RR, because there were edits that amounted to vandalism, as well as excessive reverting)
 >
->He has reverted Template:User freedom seven times despite repeated calls to stop from multiple editors. The version he is reverting to is far different from what the creators and users intended it for. I consider these edits to be an act of vandalism.--God of War 05:17, 22 January 2006 (UTC)
+>He has reverted Template:User freedom seven times despite repeated calls to stop from multiple editors. The version he is reverting to is far different from what the creators and users intended it for. I consider these edits to be an act of vandalism.
 
->I'm also surprised by the length of the block, because he was engaged in vandalism, not just edit warring. I'd block him myself but I was involved in a dispute with him over an image recently. Three examples of the edits I see as vandalism: he changed a box supporting the American military to one supporting the Iraqi insurgents. He inserted an image of a woman "hogtied" and gagged into a box opposing fox hunting, and changed the fox hunting link to BDSM. On Template:Wikiproject Terrorism, he replaced the image of a terrorist with one of a nuclear explosion.  SlimVirgin (talk) 12:22, 22 January 2006 (UTC)
+>I'm also surprised by the length of the block, because he was engaged in vandalism, not just edit warring. I'd block him myself but I was involved in a dispute with him over an image recently. Three examples of the edits I see as vandalism: he changed a box supporting the American military to one supporting the Iraqi insurgents. He inserted an image of a woman "hogtied" and gagged into a box opposing fox hunting, and changed the fox hunting link to BDSM. On Template:Wikiproject Terrorism, he replaced the image of a terrorist with one of a nuclear explosion.  
 
 >Alert to all admins. Gmaxwell is going around to every user page that displays any kind of thumbnail or flag from Wikipedia Commons and declaring them "copyright violation". He is then blanking the user page and putting up a copyright violation notice. Is there any justification for this?
 
