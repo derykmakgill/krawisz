@@ -38,6 +38,16 @@ on the Cypherpunk Mailing List that a successful digital cash project must be ul
 
 >What we want is fully anonymous, *ultra low transaction cost,* transferable units of exchange.  If we get that going the banks will become the obsolete dinasaurs they deserve to become.
 
+#### May 1999
+
+Nick Szabo publishes [*Micropayments and Mental Transaction Costs.*](https://nakamotoinstitute.org/static/docs/micropayments-and-mental-transaction-costs.pdf) The paper argues against the viability of online micropayments and suggests security is a more important investment than reducing network resource usage to enable cheaper transactions.
+
+>A lesson for micropayment efforts is that mental costs usually exceed, and
+often dwarf, the computational costs. Reductions in the per transaction computational costs of transactions may often be economically insignificant. Other transaction costs addressable by hardware or software, such as security concerns,
+as well as costs of better communicating product quality versus price tradeoffs
+in the user interface, are usually more important ob jectives for technological
+cost reduction than conserving on computational or network resources.
+
 #### 19 July 2011
 
 r/bitcoin moderator u/AtlasLGo is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
