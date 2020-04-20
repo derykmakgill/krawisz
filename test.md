@@ -454,7 +454,7 @@ Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitco
 
 #### 21 May 2018
 
-Blockstream's Chief Strategy Officer Samson Mow asks for an SEC investigation into CNBC for discussing Bitcoin Cash and jail time.
+Blockstream's Chief Strategy Officer Samson Mow asks for an [SEC investigation](https://twitter.com/Excellion/status/976628574919671808?s=20) into CNBC for discussing Bitcoin Cash and jail time.
 
 >Nice selective timeframe to pump the $BCH altcoin to your viewers. May as well make a graphic putting it on a throne for dramatic effect right? Seriously, if these guys at @CNBC aren’t in jail by year end, someone isn’t doing their job.  @SEC_Enforcement
 
@@ -465,6 +465,10 @@ He asks if there are any [current investigations.](https://twitter.com/Excellion
 He also [asks for material he can send the SEC directly.](https://twitter.com/Excellion/status/998762417470373888?s=20)
 
 >Collecting some gems for @SEC_Enforcement @SEC_News to take a closer look at @CNBCFastMoney @CNBC pumping and dumping altcoins on their viewers. Enough is enough. If you have more tweets, post below and I’ll add them to the Moment. 
+
+Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr joins in and tells a now-deleted Bitcoin Cash account that [Bitcoin Cashers will be jailed.](https://twitter.com/LukeDashjr/status/976677047589396480?s=20)
+
+>Maybe after some of you start ending up in jail, you'll stop trying to advertise your altcoin as something it isn't (Bitcoin).
 
 #### 12 December 2019
 
