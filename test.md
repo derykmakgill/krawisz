@@ -382,6 +382,12 @@ He accuses Rudd-O of 'online violence' and refers to Bitcoin.org as Cobra's "own
 
 Greg is heavily downvoted.
 
+Luke Dashjr [responds in support.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issuecomment-230078395)
+
+>Sounds reasonable as long as it's clear it isn't the original paper. Maybe an updated HTML version, with a clear link to the original at the top?
+
+He is heavily downvoted.
+
 [Theymos replies to the thread as well](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issuecomment-230082608) and suggests the whitepaper be annotated to correct errors Satoshi made and misunderstandings people might have.
 
 >Interesting suggestion. The paper is definitely outdated, and I do often see people saying "just read the whitepaper!" as if the paper is still a good way to learn about Bitcoin. On the other hand, the paper is an important piece of history. It's still an impressive document, even if not the most useful nowadays, explaining most of how Bitcoin works in only a few pages.
