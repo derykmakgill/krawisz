@@ -432,6 +432,18 @@ Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comme
 >
 >As described in the S-1 filing for the "Bitcoin Investment Trust" (BIT), a "permanent fork" of Bitcoin may occur when two groups of users disagree as to the rules which define the system (its "consensus rules"). More specifically, such a "permanent fork" is likely to occur when one group of users wish to make a change to Bitcoin's consensus rules, while another group does not. This leads to two cryptocurrencies, and may lead to significant ambiguity around which should be referred to as "Bitcoin".
 
+#### 06 October 2017
+
+[Blockstream Chief Strategy Officer Samson Mow tags the New York Department of Financial Services on Twitter](https://twitter.com/Excellion/status/916491407270879232?s=20) and asks if Coinbase is breaking any rules and engaging in fraud in supporting Segwit 2X.
+
+> Is @coinbase breaking the terms of the #BitLicense? Endorsing 2x fork definitely raises safety concerns. @NYDFS
+
+He [asks if the regulatory body has given approval](https://twitter.com/Excellion/status/916492211700690945?s=20) for Coinbase signing the New York Agreement.
+
+> Did @NYDFS superintendent give prior written approval for Coinbase to sign #NYA?
+
+The threat is clear: if you support Segwit 2X, Blockstream will use state regulatory bodies to punish you.
+
 #### 21 December 2017
 
 Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](https://twitter.com/pierre_rochard/status/943870400840306694?s=20) with legal action by implication over the naming of 'Bitcoin Cash.'
