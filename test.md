@@ -315,6 +315,26 @@ Theymos replies and is heavily downvoted.
 
 Seems rational? But when we use the [Removeddit tool,](http://removeddit.com/r/Bitcoin/comments/404z6b/scalability_issue_is_a_redherring/) we can see 24% of the comments on the entire are removed, most of which appear to have been in response to Theymos' defense of his moderation policies.
 
+#### 14 January 2016
+
+[*The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments*](https://lightning.network/lightning-network-paper.pdf) is published. 
+
+>The Bitcoin blockchain holds great promise for distributed ledgers, but
+the blockchain as a payment platform, by itself, cannot cover the world’s
+commerce anytime in the near future.
+
+The paper argues that in order to "achieve much higher than 47,000 transactions per second using
+Bitcoin requires conducting transactions off the Bitcoin blockchain itself."
+
+Notably, it also argues that the Lightning Network will require block size increases on Bitcoin up to 133mb in order to work properly.
+
+>If all transactions using Bitcoin were conducted inside a network of
+micropayment channels, to enable 7 billion people to make two channels
+per year with unlimited transactions inside the channel, it would require
+133 MB blocks (presuming 500 bytes per transaction and 52560 blocks per
+year). Current generation desktop computers will be able to run a full node
+with old blocks pruned out on 2TB of storage.
+
 #### 26 January 2016
 
 Greg Maxwell posts defending the [censorship in r/Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/42u1v8/core_devs_communication_has_improved_thank_you/czdesxq/)
