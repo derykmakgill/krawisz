@@ -163,6 +163,12 @@ Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-foun
 
 >...we propose technology to enable new cryptocurrency networks that do not need new cryptocurrencies (see our sidechains whitepaper for more information, as well as read an interview with the Wall Street Journal BitBeat). Delivering on this vision will require continued investment in and cooperation with the Bitcoin ecosystem as a whole, along with the full-time support of many people with broad and specialized backgrounds. 
 
+#### 06 November 2014
+
+Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin will be taken over and the methods by which it will happen.](https://www.youtube.com/watch?v=q-sMbf2OzOY&feature=youtu.be)
+
+>Let's not kill it outright. It's big enough now that people will see what we've done. What they're going to try to do is throw little bits of sand in it until most people find it too cumbersome to use. That is the great danger. 
+
 #### 17 November 2014
 
 [Blockstream closes a $21M seed round.](https://blockstream.com/2014/11/17/en-blockstream-closes-21m-seed-round/) “Can’t be evil" is the informal motto.
