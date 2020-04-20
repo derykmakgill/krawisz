@@ -267,7 +267,9 @@ Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike 
 
 #### 05 October 2015
 
-/u/raisethelimit is [banned permanentely](https://www.reddit.com/r/bitcoinxt/comments/3njzfz/ive_been_banned_too/cvoqzof?utm_source=share&utm_medium=web2x) from r/bitcoin.
+/u/raisethelimit is [banned permanentely](https://www.reddit.com/r/bitcoinxt/comments/3njzfz/ive_been_banned_too/cvoqzof?utm_source=share&utm_medium=web2x) from r/bitcoin after asking Greg Maxwell to [stop posting in r/Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/3nhq5a/deprecating_bitcoin_core_visualizing_the/cvoq5m4?utm_source=share&utm_medium=web2x)
+
+![Greg Maxwell](https://i.imgur.com/jHPZwbP.png)
 
 #### 28 December 2015. 
 
