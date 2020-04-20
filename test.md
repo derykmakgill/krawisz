@@ -496,6 +496,28 @@ Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr joins in and tel
 
 >Maybe after some of you start ending up in jail, you'll stop trying to advertise your altcoin as something it isn't (Bitcoin).
 
+#### 21 July 2018
+
+Cobra creates a [Github issue proposing to redo the long-standing informational video on Bitcoin.org.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2535#issue-343348067) From his comment, we can tell his concern is that users would think that Bitcoin is meant to be used for payments.
+
+>...Claims fees are low which is not necessarily true...
+>
+>Overall the video just feels... empty. Anyone who watches it won't even get close to a true understanding of what Bitcoin is. It just presents Bitcoin as something slightly better than PayPal. I think it's better if we get a new more up to date video made.
+
+It is notable that nobody had ever complained about the video and the impression it left newcomers with about Bitcoin for years.
+
+#### 11 August 2018
+
+Cobra creates a Github issue to discuss [relisting companies that were removed from Bitcoin.org for supporting the 2mb hard fork block size increase.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2577) His reasoning is that the delisting *worked* to stop the increase and that these companies are unlikely to try it again.
+
+>After the whole S2X situation, we removed links to many of the businesses that had signed the NYA. The site doesn't mention Coinbase, Xapo, BitPay, BTC.com, etc. I think enough time has passed for us to reconsider the situation. The removal and subsequent period of not linking to them was reasonable, since these companies could have attempted another contentious hard fork shortly after S2X failed, but time has shown that they've completely failed and given up at taking over Bitcoin, and are unlikely to try again.
+>
+>I believe that attacks on Bitcoin through manipulating large economic actors like Coinbase are a thing of the past. 
+
+Theymos [replies and says they should not be relisted](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2577) unless they publicly apologize and issue a statement on why they were wrong.
+
+>As far as I can tell, if they don't do anything like that again, it'll be because it's become too difficult now, not because they've learned from it. So I wouldn't re-add them unless they admit their mistakes and in particular acknowledge that Bitcoin is not governed, especially not by miners.
+
 #### 12 December 2019
 
 Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
