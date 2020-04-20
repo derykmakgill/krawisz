@@ -155,6 +155,18 @@ Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https:/
 >
 >First, even at the astronomic scale presented here the required capacity is well within the realm of (wealthy) private individuals, and certainly would be at some future time when that kind of capacity was required. A system which puts private individuals, or at least small groups of private parties, on equal footing with central banks could hardly be called a centralized one, though it would be less decentralized than the bitcoin we have today. The system could also not get to this kind of scale without bitcoin users agreeing collectively to increase the maximum block size, so it's not an outcome that can happen without the consent of bitcoin users.
 
+#### 23 October 2014
+
+Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
+
+>...we propose technology to enable new cryptocurrency networks that do not need new cryptocurrencies (see our sidechains whitepaper for more information, as well as read an interview with the Wall Street Journal BitBeat). Delivering on this vision will require continued investment in and cooperation with the Bitcoin ecosystem as a whole, along with the full-time support of many people with broad and specialized backgrounds. 
+
+#### 17 November 2014
+
+[Blockstream closes a $21M seed round.](https://blockstream.com/2014/11/17/en-blockstream-closes-21m-seed-round/) “Can’t be evil" is the informal motto.
+
+Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-1213-the-future-of-the-bitcoin-ecosystem-and-trustless-trust-why-i-invested-in-blockstream) that "Blockstream plans to extend the capabilities of Bitcoin through sidechains technology."
+
 #### 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
@@ -178,6 +190,22 @@ He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/commen
 >Please avoid repetition — r/bitcoin is a subreddit devoted to new information and discussion about Bitcoin and its ecosystem.
 >
 >Even if you think that something is important, you can't keep bringing it up day after day on r/Bitcoin without some significant+notable additional thoughts/news. It might get upvoted, but overall it's annoying and hurts the usability of r/Bitcoin.
+
+#### 03 February 2016
+
+Blockstream [raises $55 Million in a Series A Funding Round,](https://www.wsj.com/articles/bitcoin-startup-blockstream-raises-55-million-in-funding-round-1454518655) one of the largest investments in a Bitcoin company ever. 
+
+AXA Ventures co-leads the round. Bitcoiners are quick to point out that the [CEO of AXA, Henri de Castries, has been the Chairman of the Bilderberg Group since 2012](https://www.reddit.com/r/btc/comments/47zfzt/blockstream_is_now_controlled_by_the_bilderberg/) and that their ties to the traditional central banking industry and political aparatus are a huge conflict of interest in a cryptocurrency that was ostensibily designed to help make them less powerful.
+
+>They are bankers and politicians and special interest VC groups who have literally everything to lose with something like Bitcoin taking prominence over their engineered financial farce conducted over 100 years. The greatest fraud in human history as far as I am concerned.
+>
+>They want to turn Bitcoin into a piece of legacy banking garbage. They are anti-freedom and anti-freemarket.
+
+#### 22 February 2016
+
+Mosaic Ventures posts an article about their participation in the investment round, stating that Bitcoin is a [technocracy governed by developers.](https://www.mosaicventures.com/mosaicblog/2016/2/4/our-investment-in-blockstream)
+
+>The governance of Bitcoin Core, like many other open source projects, is technocratic, where a handful of “core devs” (a dynamic group that includes several Blockstream team-members) deliberate the merits of various changes to the protocol, and decide how to move the puck forward, hoping to convince each other and the wider industry of their consensus. The technocracy is at least meritocratic, in the sense that the core devs are recognized -- by their peers, the community itself -- based on their significant contributions to the code.
 
 #### 16 August 2016
 
@@ -275,6 +303,7 @@ Greg Maxwell posts defending the [censorship in r/Bitcoin.](https://www.reddit.c
 
 Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
 
+The [inventors listed](https://www.reddit.com/r/btc/comments/6uoq7b/blockstreambitcoin_core_wants_to_force_everyone/) are Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timon and Pieter Wuille. Later this number is reduced to Greg Maxwell and Adam Back.
 #### 19 July 2016
 
 Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2016/07/19/en-blockstream-defensive-patent-strategy/)
