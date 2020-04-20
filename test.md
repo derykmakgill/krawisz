@@ -444,6 +444,14 @@ He [asks if the regulatory body has given approval](https://twitter.com/Excellio
 
 The threat is clear: if you support Segwit 2X, Blockstream will use state regulatory bodies to punish you.
 
+#### 31 October 2017
+
+Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed online as an online spammer](reddit.com/r/btc/comments/79y40b/scammer_alert_you_know_the_narcissist_guy_who/) who trained customers to [send millions of unsolicited emails](https://web.archive.org/web/20070821235025/http://mail.nl.linux.org/linux-crypto/2003-05/msg00129.html_per day.
+
+>I don't know how this flew under the radar but this is very interesting. Richard Heart was a nobody just a few short months ago. Literally nobody had heard of him until this year. Then all of a sudden out of nowhere he was someone where he himself claimed he was a "thought leader" and started creating these multi hour long videos where he would do nothing but talk shit about big blockers, talk shit about Bitcoin Cash and pump Core and Blockstream as much as possible...They outed him after discovering his past where he was a HUGE SPAMMER, running scams and hanging with murderers and criminals - I KID YOU NOT. He also has a bunch of fake identities including legit fake passports and fake IDs. This guy is not your run of the mill troll. He is a full on scammer with a shady as fck past!
+m
+Richard's [first Bitcoin video](https://www.youtube.com/watch?v=PgNh43veB3Q) appeared right after the Bitcoin Cash hardfork and strongly critisized big-blockers while supporting Segwit. He would would go on make several popular videos during the height of the scaling wars invovlving BTC, Segwit 2X, and Bitcoin Cash.
+
 #### 21 December 2017
 
 Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](https://twitter.com/pierre_rochard/status/943870400840306694?s=20) with legal action by implication over the naming of 'Bitcoin Cash.'
@@ -475,6 +483,12 @@ Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr joins in and tel
 Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
 
 >I feel like this subject could get adequately covered as part of a broader article on consensusless decenteralized payment systems, but considering that lightning is the only such system with even moderately wide deployment and that there aren't a lot of secondary sources on the broader idea... that gets in the way of covering it that way.  There are a lot of bit-rotten obscure cryptocurrency articles that should probably be removed [https://en.wikipedia.org/wiki/Talk:Bitcoin_XT#Bitcoin_XT_is_long_defunct_and_the_article_is_massively_out_of_date,_should_this_be_deleted?]
+
+#### 16 December 2019
+
+Former Bitcoin Core YouTube personality Richard Heart claims that he and others [orchestrated a social manipulation campaign in order to put Segwit through on Bitcoin.](https://www.youtube.com/watch?v=1UPLA9-ICJg&lc=UgxHNItC2Cyc8zwRMzJ4AaABAg)
+
+>Two years ago we got Segwit. Which we lied and cheated and stealed -- and I was part of the lying and cheating and stealing -- to get Segwit, to get Lightning, which by the way had critical vulnerabilities and lost people's money.
 
 #### 17 February 2020
 
