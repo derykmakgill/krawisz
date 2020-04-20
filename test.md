@@ -428,6 +428,14 @@ Cobra replies that he doesn't mind if they are [removed from the website](https:
 
 >They're associated with that monster Jihan Wu, so I don't mind if they get removed because of this, they're terrible people. I definitely feel like a line has been crossed here.
 
+#### 28 July 2017
+
+Bitcoin Core developer Eric Lombrozo [suggests it is illegal to support Segwit 2X.](https://twitter.com/eric_lombrozo/status/890900135990837249?s=20)
+
+>Businesses that take this position are probably setting themselves up for massive legal liabilities.
+
+He is [asked what that means](https://twitter.com/MrChrisEllis/status/890989482522136576?s=20) but doesn't reply.
+
 #### 22 August 2017
 
 Bitcoin Core developer Eric Lombrozo calls the Segwit 2x initiatve an 'cyberattack' on Bitcoin and [threatens legal and technical action against it.](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-August/000259.html)
