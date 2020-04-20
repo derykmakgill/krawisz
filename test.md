@@ -65,7 +65,7 @@ cost reduction than conserving on computational or network resources.
 
 #### 22 January 2006
 
-Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, sockpupettry and more on Wikipedia.](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/)
+Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia.](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/)
 
 >(Copied from WP:AN/3RR, because there were edits that amounted to vandalism, as well as excessive reverting)
 >
