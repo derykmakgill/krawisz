@@ -193,6 +193,26 @@ He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/commen
 >
 >Even if you think that something is important, you can't keep bringing it up day after day on r/Bitcoin without some significant+notable additional thoughts/news. It might get upvoted, but overall it's annoying and hurts the usability of r/Bitcoin.
 
+#### 16 August 2015
+
+Bitcoin entrepreneur Ryan Selkis asks Adam Back publicly if [he is seriously contemplating a class action lawsuit](https://twitter.com/twobitidiot/status/633092083042099201?s=20) against Mike Hearn and Gavin Andresen if they move forward with Bitcoin XT.
+
+>@adam3us is it true you've contemplated joining a class action lawsuit against gavin & mike if they go through with the hard fork?
+
+Adam Back [replies,](https://twitter.com/adam3us/status/633093049397063680?s=20) seemingly acknowledging that he directly or indirectly supports the idea of a lawsuit to stop Bitcoin XT.
+
+> if you lost your Bitcoins as a result of Gavin network split - would you hold him accountable?
+
+He goes on to suggest that Gavin could be held [criminally negligent](https://twitter.com/adam3us/status/633119949943275520?s=20) for supporting Bitcoin XT and compares him to Mark Karples of the infamous Mt. Gox exchange.
+
+Bitcoin developer Jeff Garzik [responds,](https://twitter.com/jgarzik/status/633097876877348864?s=20) tagging Adam Back and Bitcoin Twitter personality Pierre Rochard, [who detailed](https://twitter.com/JackGavigan/status/698503931312394240?s=20) plans for a lawsuit in another Tweet:
+
+>Turning to lawsuits implies you have lost both the tech argument and the community.
+
+Cryptographer Ian Grigg [agrees.](https://twitter.com/iang_fc/status/633109258675073024?s=20)
+
+>Turning to lawsuits recognises that we've lost the ability to consent as a community.
+
 #### 03 February 2016
 
 Blockstream [raises $55 Million in a Series A Funding Round,](https://www.wsj.com/articles/bitcoin-startup-blockstream-raises-55-million-in-funding-round-1454518655) one of the largest investments in a Bitcoin company ever. 
@@ -326,7 +346,6 @@ destroy it will be treated as an attack on the property of all these
 people. It constitutes a serious cyberattack and decisive action against
 it, both technical and legal, has been prepared.
 
-
 #### 11 September 2017
 
 Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
@@ -336,6 +355,14 @@ Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comme
 >I have very grave concerns with the proposed rules for the maintaining of Bitcoin deposits and the lack of consumer protection in the event of Bitcoin Network rule changes in the current filings.
 >
 >As described in the S-1 filing for the "Bitcoin Investment Trust" (BIT), a "permanent fork" of Bitcoin may occur when two groups of users disagree as to the rules which define the system (its "consensus rules"). More specifically, such a "permanent fork" is likely to occur when one group of users wish to make a change to Bitcoin's consensus rules, while another group does not. This leads to two cryptocurrencies, and may lead to significant ambiguity around which should be referred to as "Bitcoin".
+
+#### 21 December 2017
+
+Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](https://twitter.com/pierre_rochard/status/943870400840306694?s=20) with legal action by implication over the naming of 'Bitcoin Cash.'
+
+>Will they also accuse judges and juries of being "retarded" if they rule that the two phrases too similar? 
+
+Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitcoin forks should be settled in court, not markets.
 
 #### 12 December 2019
 
