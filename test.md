@@ -412,6 +412,22 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >
 >That is why we are taking steps to implement a defensive patent strategy.
 
+#### 03 July 2017
+
+An issue is open on the Bitcoin.org Github account titled [*Removal of BTC.com wallet?*](https://github.com/bitcoin-dot-org/bitcoin.org/issues/16600)
+
+>BTC.com was one of the The Future of Bitcoin Conference 2017 sponsors. At the conference well known fraudster and patent troll Craig Wright attacked bitcoin users and core devs.
+>
+While I don't have a problem with supporting a conference that gives different opinions (e.g BU) a platform, I draw the line when they give a dangerous egomaniac a platform for his FUD and hate.
+>
+While this is not against the bitcoin.org wallet inclusion rules, it shows at best poor judgement and at worst the desire to harm bitcoin.
+>
+>Maybe I am totally out of line here but I would like to hear from BTC.com (@bitkevin) if they knew that Craig was one of the speakers and if they support his views on Bitcoin.
+
+Cobra replies that he doesn't mind if they are [removed from the website](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1660#issuecomment-312738631) as punishment because of their association with Jihan Wu and therefore, big block efforts.
+
+>They're associated with that monster Jihan Wu, so I don't mind if they get removed because of this, they're terrible people. I definitely feel like a line has been crossed here.
+
 #### 22 August 2017
 
 Bitcoin Core developer Eric Lombrozo calls the Segwit 2x initiatve an 'cyberattack' on Bitcoin and [threatens legal and technical action against it.](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-August/000259.html)
