@@ -346,6 +346,50 @@ Greg Maxwell posts defending the [censorship in r/Bitcoin.](https://www.reddit.c
 Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
 
 The [inventors listed](https://www.reddit.com/r/btc/comments/6uoq7b/blockstreambitcoin_core_wants_to_force_everyone/) are Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timon and Pieter Wuille. Later this number is reduced to Greg Maxwell and Adam Back.
+
+
+#### 01 July 2016
+
+Bitcoin.org co-owner 'Cobra' posts on Github that he wants to update the Bitcoin whitepaper because it confuses people. The implication is clear by the timing. Cobra did not want people to think that Bitcoin was meant to scale on-chain.
+
+>I've been noticing that the Bitcoin paper at https://bitcoin.org/bitcoin.pdf is getting a lot of traffic (mainly from people searching for "bitcoin paper", or probably seeing it cited by other papers). Almost all the people reading the paper are probably reading it for the first time, and using it as a learning resource. However since the paper is so outdated, I believe it doesn't do a good job anymore of giving people a firm understanding of Bitcoin (at least the modern version). There is no mention of things like pools, and the Privacy and SPV sections could probably be updated.
+>
+>The paper links to bitcoin.org, but I feel like the Bitcoin described in the paper and the Bitcoin described on bitcoin.org are starting to diverge. At some point, I think the paper will start to do more harm than good, because it tricks people into believing they understand Bitcoin. I have seen people promote toxic and crazy ideas, and then cite parts of the paper in an effort to justify it. Academics are also regularly citing the paper and basing some of their reasoning and arguments on this outdated paper.
+>
+>Normally issues like this in other projects would be solved by regularly updating the learning resources, and documents, such as producing new editions or versions of the document to keep it in line with the current status of the project. I'd be interested to know the community's thoughts and opinions on this issue, since I know it's likely to be a divisive but some rational debate would be good, because it could become more of a problem in the future.
+>
+>There are already a few different versions of the paper out there, so Satoshi has already set the precedent that the paper should be updated to reflect the current realities of the software. I believe the paper was always designed to be a high level overview of the current reference implementation, and that we should update it now that the paper is outdated and the reference implementation has changed significantly from 2009.
+
+The thread is heavily downvoted.
+
+A user named Rudd-O [replies](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issuecomment-230184015) and is strongly critical. 
+
+>The concept of "amending a paper" written by a first party author by way of a third-party author mangling is absurd, and it is a crime in quite a few jurisdictions.
+>
+>Morally, I say don't lie to people by mangling the original writeup. It exists where it exists for a reason. Altering the original paper to "update it" is a perversion of the very idea of a published paper. If you want it to be updated, talk to Satoshi. He can publish a second version.
+>
+>In the meantime, publish an updated paper yourself. Under your name.
+>
+>Whoever is distributing forged versions of the paper should be prosecuted for plagiarism.
+
+Greg Maxwell calls him a ['pseudonymous armchair provocateur'](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issuecomment-230186527) and suggests that Cobra has a point and that seriuos discussion about changing the whitepaper is needed.
+
+>In this case, Cobra pointed out that many people land on the Bitcoin whitepaper page after searching "bitcoin paper". Presumably, some of these people are just looking for a good background on Bitcoin, and for this purpose they are not that well served by the whitepaper as of its last update because it contains some inaccuracies (and a few things that eight more years of experience has taught us are easily misunderstood). 
+
+He accuses Rudd-O of 'online violence' and refers to Bitcoin.org as Cobra's "own space."
+
+>Here you wax on about censorship yet you see fit to make demands not just on what someone publishes on their own website, but respond with online violence to people who are simply discussing some things you don't like, in their own space. 
+
+Greg is heavily downvoted.
+
+[Theymos replies to the thread as well](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issuecomment-230082608) and suggests the whitepaper be annotated to correct errors Satoshi made and misunderstandings people might have.
+
+>Interesting suggestion. The paper is definitely outdated, and I do often see people saying "just read the whitepaper!" as if the paper is still a good way to learn about Bitcoin. On the other hand, the paper is an important piece of history. It's still an impressive document, even if not the most useful nowadays, explaining most of how Bitcoin works in only a few pages.
+>
+>Maybe it would be best to stick several pages of errata and explanation to the front of the PDF, but leave Satoshi's pages untouched. Having bitcoin.pdf redirect to an HTML page would also work...
+
+He is heavily downvoted too, and a look at the entire history clearly shows the idea was wildly unpopular.
+
 #### 19 July 2016
 
 Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2016/07/19/en-blockstream-defensive-patent-strategy/)
