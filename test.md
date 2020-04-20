@@ -452,6 +452,20 @@ Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](htt
 
 Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitcoin forks should be settled in court, not markets.
 
+#### 21 May 2018
+
+Blockstream's Chief Strategy Officer Samson Mow asks for an SEC investigation into CNBC for discussing Bitcoin Cash and jail time.
+
+>Nice selective timeframe to pump the $BCH altcoin to your viewers. May as well make a graphic putting it on a throne for dramatic effect right? Seriously, if these guys at @CNBC aren’t in jail by year end, someone isn’t doing their job.  @SEC_Enforcement
+
+He asks if there are any [current investigations.](https://twitter.com/Excellion/status/998650624370663425?s=20)
+
+>My question is if there are any pending investigations into @CNBCFastMoney by @SEC_News for @BKBrianKelly and other staff pumping and dumping $BCH, or accepting bribes to market the altcoin to investors.
+
+He also [asks for material he can send the SEC directly.](https://twitter.com/Excellion/status/998762417470373888?s=20)
+
+>Collecting some gems for @SEC_Enforcement @SEC_News to take a closer look at @CNBCFastMoney @CNBC pumping and dumping altcoins on their viewers. Enough is enough. If you have more tweets, post below and I’ll add them to the Moment. 
+
 #### 12 December 2019
 
 Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
