@@ -303,7 +303,7 @@ Longtime Bitcoiner Olivier Janssens says [Coinbase is being attacked](https://tw
 
 >@brian_armstrong Coinbase wallet removed from http://bitcoin.org because you dared to speak up against CoreDev
 
-Despite the unpopularity of the issue, it is committed the following day and Coinbase is removed from Bitcoin.org
+Despite the unpopularity of the issue, it is committed the following day and Coinbase is removed from Bitcoin.org.
 
 #### 28 December 2015. 
 
@@ -650,6 +650,10 @@ The threat is clear: if you support Segwit 2X, Blockstream will use state regula
 #### 11 October 2017
 
 [The Segwit Safety Alert activates on Bitcoin.org.](https://web.archive.org/web/20171029022533/https://bitcoin.org/en/) A red banner stating *Beware of Bitcoin's possible incompatibility with some major services* appears on every page.
+
+![Segwit Safety Alert](https://i.imgur.com/DDAHtNQ.png)
+
+The linked article is shared in full below.
 
 > **Summary**
 >
