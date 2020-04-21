@@ -755,6 +755,12 @@ Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](htt
 
 Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitcoin forks should be settled in court, not markets.
 
+#### 20 April 2018
+
+CheapAir CEO Jeff Klee announces their [plans to accept Bitcoin Cash](https://www.cheapair.com/blog/a-letter-to-our-bitcoin-customers/) and other coins [because they offer lower fees and better transaction experiences than Bitcoin.](https://news.bitcoin.com/expedia-drops-bitcoin-payments-official-confirms/)
+
+>In different ways, Litecoin, Bitcoin Cash, and Dash all promise improved transactability than their predecessor, with faster transaction times and/or lower fees,” Cheapair noted in a press release. “Over the last six months, we’ve seen a huge uptick in the number of customers requesting alternative currencies, so we’ve worked hard to integrate the three that were most requested
+
 #### 21 May 2018
 
 Blockstream's Chief Strategy Officer Samson Mow asks for an [SEC investigation](https://twitter.com/Excellion/status/976628574919671808?s=20) into CNBC for discussing Bitcoin Cash and jail time.
@@ -772,6 +778,10 @@ He also [asks for material he can send the SEC directly.](https://twitter.com/Ex
 Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr joins in and tells a now-deleted Bitcoin Cash account that [Bitcoin Cashers will be jailed.](https://twitter.com/LukeDashjr/status/976677047589396480?s=20)
 
 >Maybe after some of you start ending up in jail, you'll stop trying to advertise your altcoin as something it isn't (Bitcoin).
+
+#### 10 June 2018
+
+[Expedia drops Bitcoin as a payment option after having accepted it since 2014.](https://cointelegraph.com/news/confirmed-travel-booking-giant-expedia-has-quietly-removed-bitcoin-payment-option)
 
 #### 21 July 2018
 
