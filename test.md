@@ -458,6 +458,18 @@ Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comme
 >
 >As described in the S-1 filing for the "Bitcoin Investment Trust" (BIT), a "permanent fork" of Bitcoin may occur when two groups of users disagree as to the rules which define the system (its "consensus rules"). More specifically, such a "permanent fork" is likely to occur when one group of users wish to make a change to Bitcoin's consensus rules, while another group does not. This leads to two cryptocurrencies, and may lead to significant ambiguity around which should be referred to as "Bitcoin".
 
+#### 28 September 2017
+
+Cobra opens a Github issue for Bitcoin.org labeled [*Add Segwit2x Safety Alert.*](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824) The alert ostensibly warns users of hostile companies, but the list includes most of the oldest, most successful Bitcoin companies, and the real goal seems to be to scare or punish these companies for their stance on Segwit 2x.
+
+>This adds a new alert warning users about storing any BTC in Coinbase, Bitpay and Xapo. These companies continue ahead with their plan to hard fork away from consensus, and so this alert is necessary to make sure users are informed enough about the incoming threat.
+>
+>Thoughts? Feedback? I've tried to keep it fairly short, and I don't want this to grow into a huge complex document full of a million different things. I think the key part is to just tell people to get their coins off these dangerous services, and I think this alert accomplishes that pretty well.
+>
+>I've made this into a red alert because I think this incoming hard fork is possibly the greatest threat to Bitcoin, so a red warning is necessary to catch people's attention. I want as many as possible to know what these insidious companies are planning so we can prevent them quietly pushing it through. Raising awareness is key. I'm going to be suspicious of anyone changing this document in such a way as to make the issue seem like less of a danger and trying to "tone it down" without clear well thought out reasons.
+
+The proposal is heavily downvoted on Github .
+
 #### 06 October 2017
 
 [Blockstream Chief Strategy Officer Samson Mow tags the New York Department of Financial Services on Twitter](https://twitter.com/Excellion/status/916491407270879232?s=20) and asks if Coinbase is breaking any rules and engaging in fraud in supporting Segwit 2X.
