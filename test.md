@@ -462,6 +462,7 @@ Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comme
 
 Cobra opens a Github issue for Bitcoin.org labeled [*Add Segwit2x Safety Alert.*](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824) The alert ostensibly warns users of hostile companies, but the list includes most of the oldest, most successful Bitcoin companies, and the real goal seems to be to scare or punish these companies for their stance on Segwit 2x.
 
+```
 >This adds a new alert warning users about storing any BTC in Coinbase, Bitpay and Xapo. These companies continue ahead with their plan to hard fork away from consensus, and so this alert is necessary to make sure users are informed enough about the incoming threat.
 >
 >Thoughts? Feedback? I've tried to keep it fairly short, and I don't want this to grow into a huge complex document full of a million different things. I think the key part is to just tell people to get their coins off these dangerous services, and I think this alert accomplishes that pretty well.
@@ -493,61 +494,110 @@ Although bitcoin.org condemns contentious hard fork attempts such as S2X, we con
 By default, we will be using the following list of companies known to support S2X in our warning:
 
 -1Hash (China)
+
 -Abra (United States)
+
 -ANX (Hong Kong)
+
 -Bitangel.com /Chandler Guo (China)
+
 -BitClub Network (Hong Kong)
+
 -Bitcoin.com (St. Kitts & Nevis)
+
 -Bitex (Argentina)
+
 -bitFlyer (Japan)
+
 -Bitfury (United States)
+
 -Bitmain (China)
+
 -BitPay (United States)
+
 -BitPesa (Kenya)
+
 -BitOasis (United Arab Emirates)
+
 -Bitso (Mexico)
+
 -Bixin.com (China)
+
 -Blockchain (UK)
+
 -Bloq (United States)
+
 -BTC.com (China)
+
 -BTCC (China)
+
 -BTC.TOP (China)
+
 -BTER.com (China)
+
 -Circle (United States)
+
 -Civic (United States)
+
 -Coinbase (United States)
+
 -Coins.ph (Phillipines)
+
 -CryptoFacilities (UK)
+
 -Decentral (Canada)
+
 -Digital Currency Group (United States)
+
 -Filament (United States)
+
 -Genesis Global Trading (United States)
+
 -Genesis Mining (Hong Kong)
+
 -GoCoin (Isle of Man)
+
 -Grayscale Investments (United States)
+
 -Jaxx (Canada)
+
 -Korbit (South Korea)
+
 -Luno (Singapore)
+
 -MONI (Finland)
+
 -Netki (United States)
+
 -OB1 (United States)
+
 -Purse (United States)
+
 -Ripio (Argentina)
+
 -Safello (Sweden)
+
 -SFOX (United States)
+
 -ShapeShift (Switzerland)
+
 -SurBTC (Chile)
+
 -Unocoin (India)
+
 -Veem (United States)
+
 -ViaBTC (China)
+
 -Xapo (United States)
+
 -Yours (United States)
 
 #### Notes
 
 1. “SegWit2x” has nothing to do with SegWit. SegWit is already activated, and was supported by an entirely different set of people.
 2. S2X claims to have replay protection, but their version requires extra manual steps in order to prevent loss of BTC. If you use S2X software without careful engineering, you are likely to lose any associated BTC.
-'''
+```
 
 The article is notable for many reasons, particularly the claim that "Segwit2x has nothing to do with Segwit."
 
