@@ -756,8 +756,22 @@ The article then lists again all the businesses that are supporting Segwit 2x.
 Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed online as an online spammer](reddit.com/r/btc/comments/79y40b/scammer_alert_you_know_the_narcissist_guy_who/) who trained customers to [send millions of unsolicited emails](https://web.archive.org/web/20070821235025/http://mail.nl.linux.org/linux-crypto/2003-05/msg00129.html) per day.
 
 >I don't know how this flew under the radar but this is very interesting. Richard Heart was a nobody just a few short months ago. Literally nobody had heard of him until this year. Then all of a sudden out of nowhere he was someone where he himself claimed he was a "thought leader" and started creating these multi hour long videos where he would do nothing but talk shit about big blockers, talk shit about Bitcoin Cash and pump Core and Blockstream as much as possible...They outed him after discovering his past where he was a HUGE SPAMMER, running scams and hanging with murderers and criminals - I KID YOU NOT. He also has a bunch of fake identities including legit fake passports and fake IDs. This guy is not your run of the mill troll. He is a full on scammer with a shady as fck past!
-m
+
 Richard's [first Bitcoin video](https://www.youtube.com/watch?v=PgNh43veB3Q) appeared right after the Bitcoin Cash hardfork and strongly critisized big-blockers while supporting Segwit. He would would go on make several popular videos during the height of the scaling wars invovlving BTC, Segwit 2X, and Bitcoin Cash.
+
+#### 08 November 2017
+
+Theymos creates a Github issue titled [*Policy to fight against "miners control Bitcoin" narrative.*](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1904#issue-272347583) He expresses his concern as follows and asks that companies sign a pledge aggreeing that Bitcoin consensus rules are not defined by miners in order to be listed on Bitcoin.org.
+
+>With the S2X nonsense, several companies said that miners control Bitcoin. This belief is one of the most dangerous threats to Bitcoin, since if most people think that, then Bitcoin ends up controlled by only a handful of people.
+>
+>Although this issue is mentioned in a few places on bitcoin.org, I've been thinking that bitcoin.org should somehow act against this more than it is already. For example, maybe bitcoin.org should require that wallets and services sign a very simple pledge that acknowledges that Bitcoin is not ruled by miners in order to be linked from bitcoin.org.
+
+Hilariously, Cobra replies in agreement and [blames this *misconception* on the white paper itself,](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1904#issuecomment-342973983) which begs the question whether the white paper written by Satoshi Nakamoto is correct or they are. He then proposes the paper be rewritten.
+
+>The whitepaper is to blame for all these dangerous beliefs. We seriously need to rewrite it, or produce a completely new whitepaper and call that the Bitcoin whitepaper.
+
+The proposal appears to be wildly unpopular on Github.
 
 #### 07 December 2017
 
