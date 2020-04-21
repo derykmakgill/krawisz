@@ -755,6 +755,20 @@ Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](htt
 
 Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitcoin forks should be settled in court, not markets.
 
+#### 23 January 2018
+
+[Stripe ends its support for Bitcoin, citing the block sizes filling up and the lack of utility, and therefore interest, in Bitcoin payments.](https://stripe.com/blog/ending-bitcoin-support) While Stripe states they don't necessarily disagree with the Bitcoin community not raising the block size, they no longer have any reason to work with it.
+
+>Our hope was that Bitcoin could become a universal, decentralized substrate for online transactions and help our customers enable buyers in places that had less credit card penetration or use cases where credit card fees were prohibitive.
+>
+>Over the past year or two, as block size limits have been reached, Bitcoin has evolved to become better-suited to being an asset than being a means of exchange. Given the overall success that the Bitcoin community has achieved, it’s hard to quibble with the decisions that have been made along the way. (And we’re certainly happy to see any novel, ambitious project do so well.)
+>
+>This has led to Bitcoin becoming less useful for payments, however. Transaction confirmation times have risen substantially; this, in turn, has led to an increase in the failure rate of transactions denominated in fiat currencies. (By the time the transaction is confirmed, fluctuations in Bitcoin price mean that it’s for the “wrong” amount.) Furthermore, fees have risen a great deal. For a regular Bitcoin transaction, a fee of tens of U.S. dollars is common, making Bitcoin transactions about as expensive as bank wires.
+>
+>Because of this, we’ve seen the desire from our customers to accept Bitcoin decrease. And of the businesses that are accepting Bitcoin on Stripe, we’ve seen their revenues from Bitcoin decline substantially. Empirically, there are fewer and fewer use cases for which accepting or paying with Bitcoin makes sense.
+>
+>Therefore, starting today, we are winding down support for Bitcoin payments. Over the next three months we will work with affected Stripe users to ensure a smooth transition before we stop processing Bitcoin transactions on April 23, 2018.
+
 #### 20 April 2018
 
 CheapAir CEO Jeff Klee announces their [plans to accept Bitcoin Cash](https://www.cheapair.com/blog/a-letter-to-our-bitcoin-customers/) and other coins [because they offer lower fees and better transaction experiences than Bitcoin.](https://news.bitcoin.com/expedia-drops-bitcoin-payments-official-confirms/)
