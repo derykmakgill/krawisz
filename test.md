@@ -487,116 +487,116 @@ They also list 'guidelines' for companies to be removed from the list. The entir
 >
 >- The company will not by default do anything that would deprive users of their bitcoins (by eg. using S2X software without addressing replay attacks2, selling user bitcoins automatically, crediting BTC deposits only as S2X deposits, etc.). Providing access to S2X-coins is acceptable, however.
 >
-- The company will continue to provide normal service to Bitcoin (ie. non-S2X) users.
+>- The company will continue to provide normal service to Bitcoin (ie. non-S2X) users.
 >
-Although bitcoin.org condemns contentious hard fork attempts such as S2X, we consider it tolerable for companies to support S2X in ways that do not contradict the above three points, such as by supporting both Bitcoin and S2X simultaneously as separate cryptocurrencies.
-
-By default, we will be using the following list of companies known to support S2X in our warning:
-
--1Hash (China)
-
--Abra (United States)
-
--ANX (Hong Kong)
-
--Bitangel.com /Chandler Guo (China)
-
--BitClub Network (Hong Kong)
-
--Bitcoin.com (St. Kitts & Nevis)
-
--Bitex (Argentina)
-
--bitFlyer (Japan)
-
--Bitfury (United States)
-
--Bitmain (China)
-
--BitPay (United States)
-
--BitPesa (Kenya)
-
--BitOasis (United Arab Emirates)
-
--Bitso (Mexico)
-
--Bixin.com (China)
-
--Blockchain (UK)
-
--Bloq (United States)
-
--BTC.com (China)
-
--BTCC (China)
-
--BTC.TOP (China)
-
--BTER.com (China)
-
--Circle (United States)
-
--Civic (United States)
-
--Coinbase (United States)
-
--Coins.ph (Phillipines)
-
--CryptoFacilities (UK)
-
--Decentral (Canada)
-
--Digital Currency Group (United States)
-
--Filament (United States)
-
--Genesis Global Trading (United States)
-
--Genesis Mining (Hong Kong)
-
--GoCoin (Isle of Man)
-
--Grayscale Investments (United States)
-
--Jaxx (Canada)
-
--Korbit (South Korea)
-
--Luno (Singapore)
-
--MONI (Finland)
-
--Netki (United States)
-
--OB1 (United States)
-
--Purse (United States)
-
--Ripio (Argentina)
-
--Safello (Sweden)
-
--SFOX (United States)
-
--ShapeShift (Switzerland)
-
--SurBTC (Chile)
-
--Unocoin (India)
-
--Veem (United States)
-
--ViaBTC (China)
-
--Xapo (United States)
-
--Yours (United States)
-
-#### Notes
-
-1. “SegWit2x” has nothing to do with SegWit. SegWit is already activated, and was supported by an entirely different set of people.
-2. S2X claims to have replay protection, but their version requires extra manual steps in order to prevent loss of BTC. If you use S2X software without careful engineering, you are likely to lose any associated BTC.
+>Although bitcoin.org condemns contentious hard fork attempts such as S2X, we consider it tolerable for companies to support S2X in ways that do not contradict the above three points, such as by supporting both Bitcoin and S2X simultaneously as separate cryptocurrencies.
+>
+>By default, we will be using the following list of companies known to support S2X in our warning:
+>
+>-1Hash (China)
+>
+>-Abra (United States)
+>
+>-ANX (Hong Kong)
+>
+>-Bitangel.com /Chandler Guo (China)
+>
+>-BitClub Network (Hong Kong)
+>
+>-Bitcoin.com (St. Kitts & Nevis)
+>
+>-Bitex (Argentina)
+>
+>-bitFlyer (Japan)
+>
+>-Bitfury (United States)
+>
+>-Bitmain (China)
+>
+>-BitPay (United States)
+>
+>-BitPesa (Kenya)
+>
+>-BitOasis (United Arab Emirates)
+>
+>-Bitso (Mexico)
+>
+>-Bixin.com (China)
+>
+>-Blockchain (UK)
+>
+>-Bloq (United States)
+>
+>-BTC.com (China)
+>
+>-BTCC (China)
+>
+>-BTC.TOP (China)
+>
+>-BTER.com (China)
+>
+>-Circle (United States)
+>
+>-Civic (United States)
+>
+>-Coinbase (United States)
+>
+>-Coins.ph (Phillipines)
+>
+>-CryptoFacilities (UK)
+>
+>-Decentral (Canada)
+>
+>-Digital Currency Group (United States)
+>
+>-Filament (United States)
+>
+>-Genesis Global Trading (United States)
+>
+>-Genesis Mining (Hong Kong)
+>
+>-GoCoin (Isle of Man)
+>
+>-Grayscale Investments (United States)
+>
+>-Jaxx (Canada)
+>
+>-Korbit (South Korea)
+>
+>-Luno (Singapore)
+>
+>-MONI (Finland)
+>
+>-Netki (United States)
+>
+>-OB1 (United States)
+>
+>-Purse (United States)
+>
+>-Ripio (Argentina)
+>
+>-Safello (Sweden)
+>
+>-SFOX (United States)
+>
+>-ShapeShift (Switzerland)
+>
+>-SurBTC (Chile)
+>
+>-Unocoin (India)
+>
+>-Veem (United States)
+>
+>-ViaBTC (China)
+>
+>-Xapo (United States)
+>
+>-Yours (United States)
+>
+>**Notes**
+>
+>1. “SegWit2x” has nothing to do with SegWit. SegWit is already activated, and was supported by an entirely different set of people.
+>2. S2X claims to have replay protection, but their version requires extra manual steps in order to prevent loss of BTC. If you use S2X software without careful engineering, you are likely to lose any associated BTC.
 
 
 The article is notable for many reasons, particularly the claim that "Segwit2x has nothing to do with Segwit."
