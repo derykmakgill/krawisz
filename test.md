@@ -446,6 +446,34 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >
 >That is why we are taking steps to implement a defensive patent strategy.
 
+#### 14 March 2017
+
+CCN publishes an article detailing a threat made by Bitcoin Core supporter Ciphera to [attack the Bitcoin Unlimited node network.](https://www.ccn.com/bitcoin-core-supporter-threatens-zero-day-exploit-bitcoin-unlimited-hardforks/)
+
+Hours later, after a bug in the Bitcoin Unlimited node software is disclosed, developers quickly [patch the bug on Github.](https://github.com/BitcoinUnlimited/BitcoinUnlimited/pull/371/files)
+
+Bitcoin Core developer [Peter Todd tweets about the bug in the next hour](https://twitter.com/peterktodd/status/841702092687450113) before the nodes are updated with the fix, an act which many considered irresponsible because it popularizes the bug to potential attackers. There are [differing accounts](https://www.ccn.com/caused-bitcoin-unlimited-node-crash/) of when whether it started before or after Peter's tweet, but at some point an attack exploiting the bug on Bitcoin Unlimited nodes begins, taking many offline.
+
+Many on Twitter and [r/Bitcoin celebate the attack.](https://www.reddit.com/r/Bitcoin/comments/5zdkv3/bitcoin_unlimited_remote_exploit_crash/) A hotfix to allow Bitcoin Unlimited nodes to continue working is released and posted on r/Bitcoin, but the [post is immediately deleted by r/Bitcoin moderators.](https://www.reddit.com/r/btc/comments/5zeo5p/the_censorship_on_rbitcoin_is_completely_reckless/dexpzih/)
+
+![BU Fix](http://i.imgur.com/WGNiuJ7.png)
+
+u/TheTT [recounts](https://www.reddit.com/r/Bitcoin/comments/5zdkv3/bitcoin_unlimited_remote_exploit_crash/dexiun0/) what happened as he observed it: 
+
+>They actually put out a fix before this whole madness got started - the attackers got the idea from the public fix. It should also be noted that Peter Todds tweet likely made it spread around the larger community. Completely irresponsible behaviour. Doesnt make the BU code less shitty, but still. It really shows that people just want to hurt each other, not further the ecosystem.
+
+Big-blocker Paul Wasensteiner [writes that this is an act of war against Bitcoin Unlimited](https://www.reddit.com/r/btc/comments/5zeo5p/the_censorship_on_rbitcoin_is_completely_reckless/dexpzih/) and describes what he saw:
+
+>The entire front page is them cheering about the attack on BU, yet they censor the fix.
+>
+>I mean, I cannot possibly comprehend how things got this way.
+>
+>An influential core developer announces a bug in a bitcoin client in the most public place possible, after the bug has already been fixed but has not been pushed out yet, for the sole purpose of causing as much damage as possible. A core supporter then uses the bug to attack the network and take hundreds of nodes of the network. Then the main bitcoin subreddit fills with every single post cheering that an attack has happened on the network and that it is great. Then a hotfix is released to allow bitcoin nodes to continue operating as usual, but the main bitcoin subreddit then censors the fix.
+Just let that sink in a second.
+>
+>Make no mistake, bitcoin is at war.
+
+
 #### 03 July 2017
 
 An issue is open on the Bitcoin.org Github account titled [*Removal of BTC.com wallet?*](https://github.com/bitcoin-dot-org/bitcoin.org/issues/16600)
@@ -679,7 +707,7 @@ The article then lists again all the businesses that are supporting Segwit 2x.
 
 #### 31 October 2017
 
-Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed online as an online spammer](reddit.com/r/btc/comments/79y40b/scammer_alert_you_know_the_narcissist_guy_who/) who trained customers to [send millions of unsolicited emails](https://web.archive.org/web/20070821235025/http://mail.nl.linux.org/linux-crypto/2003-05/msg00129.html_per day.
+Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed online as an online spammer](reddit.com/r/btc/comments/79y40b/scammer_alert_you_know_the_narcissist_guy_who/) who trained customers to [send millions of unsolicited emails](https://web.archive.org/web/20070821235025/http://mail.nl.linux.org/linux-crypto/2003-05/msg00129.html) per day.
 
 >I don't know how this flew under the radar but this is very interesting. Richard Heart was a nobody just a few short months ago. Literally nobody had heard of him until this year. Then all of a sudden out of nowhere he was someone where he himself claimed he was a "thought leader" and started creating these multi hour long videos where he would do nothing but talk shit about big blockers, talk shit about Bitcoin Cash and pump Core and Blockstream as much as possible...They outed him after discovering his past where he was a HUGE SPAMMER, running scams and hanging with murderers and criminals - I KID YOU NOT. He also has a bunch of fake identities including legit fake passports and fake IDs. This guy is not your run of the mill troll. He is a full on scammer with a shady as fck past!
 m
