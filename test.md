@@ -651,7 +651,7 @@ The threat is clear: if you support Segwit 2X, Blockstream will use state regula
 
 [The Segwit Safety Alert activates on Bitcoin.org.](https://web.archive.org/web/20171029022533/https://bitcoin.org/en/) A red banner stating *Beware of Bitcoin's possible incompatibility with some major services* appears on every page.
 
-![Segwit Safety Alert](https://i.imgur.com/DDAHtNQ.png)
+![Segwit Safety Alert](https://i.imgur.com/Ghe8T21.png)
 
 The linked article is shared in full below.
 
