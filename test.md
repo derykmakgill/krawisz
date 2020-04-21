@@ -755,6 +755,12 @@ Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](htt
 
 Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitcoin forks should be settled in court, not markets.
 
+#### 10 January 2018
+
+[The North American Bitcoin Conference stops accepting Bitcoin due to fees and network congestion.](https://news.bitcoin.com/miami-bitcoin-conference-stops-accepting-bitcoin-due-to-fees-and-congestion/) The organizer Moe Levin told reporters: 
+
+>We wish this was easier, but no ticketing options exist which can handle large volumes of ticket sales, and transaction fees on the Bitcoin blockchain exceed $30 at certain times of the day.
+
 #### 23 January 2018
 
 [Stripe ends its support for Bitcoin, citing the block sizes filling up and the lack of utility, and therefore interest, in Bitcoin payments.](https://stripe.com/blog/ending-bitcoin-support) While Stripe states they don't necessarily disagree with the Bitcoin community not raising the block size, they no longer have any reason to work with it.
