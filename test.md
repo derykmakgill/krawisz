@@ -737,6 +737,16 @@ Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed
 m
 Richard's [first Bitcoin video](https://www.youtube.com/watch?v=PgNh43veB3Q) appeared right after the Bitcoin Cash hardfork and strongly critisized big-blockers while supporting Segwit. He would would go on make several popular videos during the height of the scaling wars invovlving BTC, Segwit 2X, and Bitcoin Cash.
 
+#### 07 December 2017
+
+[Steam stops accepting Bitcoin payments citing extreme volatility in fee prices.](https://steamcommunity.com/games/593110/announcements/detail/1464096684955433613)
+
+>In the past few months we've seen an increase in the volatility in the value of Bitcoin and a significant increase in the fees to process transactions on the Bitcoin network. For example, transaction fees that are charged to the customer by the Bitcoin network have skyrocketed this year, topping out at close to $20 a transaction last week (compared to roughly $0.20 when we initially enabled Bitcoin). Unfortunately, Valve has no control over the amount of the fee. These fees result in unreasonably high costs for purchasing games when paying with Bitcoin.
+
+In interview in CoinTelegraph, Bitcoin Core supporter Max Keiser tells people to [use an altcoin, Dash, if they want a payment system.](https://cointelegraph.com/news/steam-stops-accepting-bitcoin-payments-citing-extreme-volatility-fees)
+
+>Dash is emerging as the crypto payment rail while Bitcoin asserts itself as Gold 2.0. I suggest those frustrated by the Bitcoin scaling debate to embrace Dash for payments and leave Bitcoin Core alone to continue working on Gold 2.0.
+
 #### 21 December 2017
 
 Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](https://twitter.com/pierre_rochard/status/943870400840306694?s=20) with legal action by implication over the naming of 'Bitcoin Cash.'
