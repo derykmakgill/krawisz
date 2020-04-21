@@ -251,7 +251,15 @@ Mosaic Ventures posts an article about their participation in the investment rou
 
 #### 16 August 2016
 
-A popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. The two comics he made are archived below.
+u/Jackten comments ["I cant get a single post through and everything up now is shit posts and anti-XT."](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8ofg/rbitcoin_on_lockdown_after_mod_hiatus/?utm_source=share&utm_medium=web2x)
+
+[u/dnivi3 replies that none of his Bitcoin XT posts are being allowed on r/Bitcoin either.](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8ofg/rbitcoin_on_lockdown_after_mod_hiatus/) He is promptly banned and says the moderators are orchestrating a hostile takeover of Bitcoin.
+
+>None of my posts are getting through either. Fuck you /u/theymos, /u/starmaged, /u/thepiachu, /u/bashco, /u/frankenmint and you other retarded moderators pushing their own agenda.
+>
+>EDIT: for fuck's sake, I'm now banned from r/Bitcoin. I checked the threads I've commented in without being logged in and none of my comments show up. I've been an active contributors for more than a year and most of my karma points are from r/Bitcoin. Fuck this shit and the fucking mods holding the community hostage. They need to be removed. Does anybody know if there's a way to contact the reddit admins and have the moderators removed? I mean, this is a hostile takeover that is against much of the community's will.
+
+On the same day popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. The two comics he made are archived below.
 
 The first comic listed references things Theymos himself said in the past in favor of raising the block size and suggests he may have been paid off by Blockstream to pretend otherwise.
 
