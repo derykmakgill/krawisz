@@ -468,7 +468,88 @@ Cobra opens a Github issue for Bitcoin.org labeled [*Add Segwit2x Safety Alert.*
 >
 >I've made this into a red alert because I think this incoming hard fork is possibly the greatest threat to Bitcoin, so a red warning is necessary to catch people's attention. I want as many as possible to know what these insidious companies are planning so we can prevent them quietly pushing it through. Raising awareness is key. I'm going to be suspicious of anyone changing this document in such a way as to make the issue seem like less of a danger and trying to "tone it down" without clear well thought out reasons.
 
-The proposal is heavily downvoted on Github .
+The proposal is heavily downvoted on Github. Longtime Bitcoin entrepreneur Erik Vorhees [comments on Twitter:](https://twitter.com/ErikVoorhees/status/918126175758598146)
+
+>Glad to see many of the rational comments on https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824 regarding http://bitcoin.org's highly political message today.
+
+#### 05 October 2017
+
+Despite the unpopularity of Bitcoin.org's Segwit Safety Alert, they [post on their blog](https://web.archive.org/web/20171028193101/https://bitcoin.org/en/posts/denounce-segwit2x) their intentions to activate the alert in the coming days, along with a blacklist of companies that includes Coinbase, BitPay, Bitcoin.com, Blockchain.com, BTC.com and more. 
+
+They also list 'guidelines' for companies to be removed from the list. The entire article is shared below.
+
+'''On 2017-10-11 at noon (UTC), Bitcoin.org is planning to publish a banner on every page of the site warning users about the risks of using services that will default to the so-called Segwit2x1 (S2X) contentious hard fork. S2X companies will be called out by name. To ensure that we only warn users against companies that will actually put user deposits at risk, we urge all companies to publicly clarify their stance before the above date, either by a highly-visible public statement or by commenting on Bitcoin.org issue #1835 (or by doing both).
+
+In particular, we need to know that:
+
+- The company will not under any circumstances list “Segwit2x” as “BTC” and/or “Bitcoin”. Note that Bitcoin is not ruled by miners, and miner actions cannot be used as a justification to redefine Bitcoin.
+
+- The company will not by default do anything that would deprive users of their bitcoins (by eg. using S2X software without addressing replay attacks2, selling user bitcoins automatically, crediting BTC deposits only as S2X deposits, etc.). Providing access to S2X-coins is acceptable, however.
+
+- The company will continue to provide normal service to Bitcoin (ie. non-S2X) users.
+
+Although bitcoin.org condemns contentious hard fork attempts such as S2X, we consider it tolerable for companies to support S2X in ways that do not contradict the above three points, such as by supporting both Bitcoin and S2X simultaneously as separate cryptocurrencies.
+
+By default, we will be using the following list of companies known to support S2X in our warning:
+
+-1Hash (China)
+-Abra (United States)
+-ANX (Hong Kong)
+-Bitangel.com /Chandler Guo (China)
+-BitClub Network (Hong Kong)
+-Bitcoin.com (St. Kitts & Nevis)
+-Bitex (Argentina)
+-bitFlyer (Japan)
+-Bitfury (United States)
+-Bitmain (China)
+-BitPay (United States)
+-BitPesa (Kenya)
+-BitOasis (United Arab Emirates)
+-Bitso (Mexico)
+-Bixin.com (China)
+-Blockchain (UK)
+-Bloq (United States)
+-BTC.com (China)
+-BTCC (China)
+-BTC.TOP (China)
+-BTER.com (China)
+-Circle (United States)
+-Civic (United States)
+-Coinbase (United States)
+-Coins.ph (Phillipines)
+-CryptoFacilities (UK)
+-Decentral (Canada)
+-Digital Currency Group (United States)
+-Filament (United States)
+-Genesis Global Trading (United States)
+-Genesis Mining (Hong Kong)
+-GoCoin (Isle of Man)
+-Grayscale Investments (United States)
+-Jaxx (Canada)
+-Korbit (South Korea)
+-Luno (Singapore)
+-MONI (Finland)
+-Netki (United States)
+-OB1 (United States)
+-Purse (United States)
+-Ripio (Argentina)
+-Safello (Sweden)
+-SFOX (United States)
+-ShapeShift (Switzerland)
+-SurBTC (Chile)
+-Unocoin (India)
+-Veem (United States)
+-ViaBTC (China)
+-Xapo (United States)
+-Yours (United States)
+
+#### Notes
+
+1. “SegWit2x” has nothing to do with SegWit. SegWit is already activated, and was supported by an entirely different set of people.
+2. S2X claims to have replay protection, but their version requires extra manual steps in order to prevent loss of BTC. If you use S2X software without careful engineering, you are likely to lose any associated BTC.
+'''
+
+The article is notable for many reasons, particularly the claim that "Segwit2x has nothing to do with Segwit."
 
 #### 06 October 2017
 
@@ -481,6 +562,7 @@ He [asks if the regulatory body has given approval](https://twitter.com/Excellio
 > Did @NYDFS superintendent give prior written approval for Coinbase to sign #NYA?
 
 The threat is clear: if you support Segwit 2X, Blockstream will use state regulatory bodies to punish you.
+
 
 #### 31 October 2017
 
