@@ -199,6 +199,20 @@ He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/commen
 >
 >Even if you think that something is important, you can't keep bringing it up day after day on r/Bitcoin without some significant+notable additional thoughts/news. It might get upvoted, but overall it's annoying and hurts the usability of r/Bitcoin.
 
+#### 15 August 2015
+
+A now [deleted](https://www.reddit.com/r/Bitcoin/comments/3h5f90/these_mods_need_to_be_changed_upvote_if_you_agree/) post [(archive)](https://archive.is/rum9c) on /r/bitcoin calling for the moderators to step down garnered more than 2,800 upvotes (91% upvoted), making it one of the highest-voted threads of /r/bitcoin history. The community demonstrated consensus (heh) that the current /r/bitcoin mod squad was corrupt, participating in censorship, and needed to go.
+
+One user comments the following:
+
+>Everytime I have something to say critical of bitcoin or something nice to say about an altcoin I get banned here. These mods censor conversation. It is disingenious to censor anything that isn't pro bitcoin. Stop the circle jerk. (and yes I love bitcoin but don't censor me fucks)
+
+Another user comments that the censorship of Bitcoin XT topics is rallying the community to push back against them.
+
+>The comically open and heavy-handed censorship combined with simple ad hominen attacks (XT is ALTCOIN) makes this feel almost like a troll campaign for the purpose of rallying the community. We all rally against the censorship and mods by running XT. Thus quickly settling consensus rather than dragging it out over months. Maybe. Maybe
+
+Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/comments/3h5f90/these_mods_need_to_be_changed_upvote_if_you_agree/)
+
 #### 16 August 2015
 
 Bitcoin entrepreneur Ryan Selkis asks Adam Back publicly if [he is seriously contemplating a class action lawsuit](https://twitter.com/twobitidiot/status/633092083042099201?s=20) against Mike Hearn and Gavin Andresen if they move forward with Bitcoin XT.
