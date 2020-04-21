@@ -759,7 +759,14 @@ Cobra creates a Github issue to discuss [relisting companies that were removed f
 
 Theymos [replies and says they should not be relisted](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2577) unless they publicly apologize and issue a statement on why they were wrong.
 
->As far as I can tell, if they don't do anything like that again, it'll be because it's become too difficult now, not because they've learned from it. So I wouldn't re-add them unless they admit their mistakes and in particular acknowledge that Bitcoin is not governed, especially not by miners.
+>As far as I can tell, if they don't do anything like that again, it'll be because it's become too difficult now, not because they've learned from it. So I wouldn't re-add them unless they admit their mistakes and in particular acknowledge that Bitcoin is not governed, especially not by miners.'
+
+#### 26 December 2018
+
+Samson Mow cheers and threatens Bitcoin Cash Association creator Paul Wasensteiner's arrest and [tags the SEC on Twitter.](https://twitter.com/excellion/status/1078051212052684800)
+
+>You’ll see real cheering when you and your wife go to jail for using @CNBCFastMoney to pump and dump #Bcash on noobs. @SEC_Enforcement.
+
 
 #### 12 December 2019
 
