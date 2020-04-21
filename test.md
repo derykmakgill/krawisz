@@ -271,6 +271,40 @@ Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike 
 
 ![Greg Maxwell](https://i.imgur.com/jHPZwbP.png)
 
+#### 26 December 2015
+
+Cobra makes a Github issue to [remove Coinbase from the "choose your wallet" page on Bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178) to punish them for running a Bitcoin XT node in addition to their Bitcoin Core node.
+
+>Coinbase is now running Bitcoin XT in their production servers. XT is an contentious hard fork attempt that will create a new altcoin and split the community and blockchain should it ever go into effect. If this ever happens, Coinbase's customers may find that they no longer own any actual Bitcoin.
+>
+>This pull request removes Coinbase from the "Choose your Wallet" page to protect new users from being on the wrong end of a blockchain fork. Bitcoin.org should only promote Bitcoin services. Companies that use XT don't meet this criteria because they support forking off the blockchain and switching to a new incompatible currency without broad consensus.
+>
+>Bitcoin Core has already announced a road map to address scalability concerns. I don't see why @barmstrong feels the need to try to promote XT in this way. Almost all of the Bitcoin technical community supports the announced road map. It's not like things aren't moving forward
+
+One Github user [comments](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178#issuecomment-167379700) in support that Coinbase needs to be forced in line.
+
+>ACK. We definitely need to coerce Coinbase into switching back to Bitcoin Core. If we do not take any action, we're setting a dangerous precedent where other wallets and services are allowed to break apart from the consensus.
+
+The issue is on the whole very unpopular thought.
+
+Bitcoin developer [Jameson Lopp comments that Bitcoin XT can become Bitcoin](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178#issuecomment-167378735) and removing companies before a fork has happened is premature.
+
+>NACK; the potential for forking does not an altcoin make. Until such time as a BIP101 fork occurs, companies running XT are definitely running Bitcoin. If a hard fork does occur, said companies may still be running Bitcoin - it would have to be judged which fork is the winner post-fork. Removing companies as "not running Bitcoin" when no fork has occurred is jumping the gun.
+
+OB1 Cofounder [Brian Hoffman comments:](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178#issuecomment-167456502)
+
+>This is a god damn experiment on their part. Not compliant with the Bitcoin network? Any service allowing registrations and financial software is subject to their locales regulations and guidelines or they go to jail. Why the fuck does that preclude them from being on a list of wallets? This is why you can't give children big boy responsibilities.
+
+Ethereum creator[ Vitalik Buterin invokes 'Poes Law:'](https://twitter.com/VitalikButerin/status/681188770813591552?s=20)
+
+>OK think I just fell victim to Poes law.. https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178 "A better long term soln..verify that txs have been signed by Blockstream"
+
+Longtime Bitcoiner Olivier Janssens says [Coinbase is being attacked](https://twitter.com/olivierjanss/status/681178084846993408?s=20) for challenging the core developers.
+
+>@brian_armstrong Coinbase wallet removed from http://bitcoin.org because you dared to speak up against CoreDev
+
+Despite the unpopularity of the issue, it is committed the following day and Coinbase is removed from Bitcoin.org
+
 #### 28 December 2015. 
 
 A rogue /r/bitcoin mod going by the username /u/CensorshipIsTheWorst leaked the following conversation from the /r/Bitcoin mod-mail:
