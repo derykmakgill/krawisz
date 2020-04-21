@@ -779,7 +779,17 @@ Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitco
 
 CheapAir CEO Jeff Klee announces their [plans to accept Bitcoin Cash](https://www.cheapair.com/blog/a-letter-to-our-bitcoin-customers/) and other coins [because they offer lower fees and better transaction experiences than Bitcoin.](https://news.bitcoin.com/expedia-drops-bitcoin-payments-official-confirms/)
 
->In different ways, Litecoin, Bitcoin Cash, and Dash all promise improved transactability than their predecessor, with faster transaction times and/or lower fees,” Cheapair noted in a press release. “Over the last six months, we’ve seen a huge uptick in the number of customers requesting alternative currencies, so we’ve worked hard to integrate the three that were most requested
+>In different ways, Litecoin, Bitcoin Cash, and Dash all promise improved transactability than their predecessor, with faster transaction times and/or lower fees,” Cheapair noted in a press release. “Over the last six months, we’ve seen a huge uptick in the number of customers requesting alternative currencies, so we’ve worked hard to integrate the three that were most requested.
+
+#### 07 May 2018
+
+[CoinMarketCap deletes Bitcoin.com from their BTC listing](https://cointelegraph.com/news/coinmarketcap-quietly-removes-bch-promoting-bitcoincom-from-its-btc-page) as punishment after Bitcoin Core supporters drum up a false effort to accuse them of misleading customers over BTC and BCH.
+
+Bitcoin Core Twitter personalty Ragnar Lifthrasir helped [organize the campaign.](https://twitter.com/Ragnarly/status/990212856820809729?ref_src=twsrc%5Etfw)
+
+>If you've lost bitcoin because of misleading language, ticker symbols, graphics, or photos on any Roger Ver website or wallet (like Bitcoin .com) please submit your report to: https://t.co/Tvk2YG4bju we also have a Telegram group.
+
+The problem? Days before CoinMarketCap delisted Bitcoin.com the entire effort had been [dropped because they couldn't get enough supporters](https://cointelegraph.com/news/pro-btc-movement-scraps-lawsuit-against-vers-bitcoincom-citing-lack-of-funds) to say they had been mislead by Bitcoin.com and contribute to the cause. 
 
 #### 21 May 2018
 
