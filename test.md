@@ -512,7 +512,7 @@ it, both technical and legal, has been prepared.
 
 #### 11 September 2017
 
-Bitcoin Core developer Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
+Bitcoin Core developer and Blockstream Cofounder Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
 
 >I am Matt Corallo, a long-time developer of Bitcoin (around the 10th publicly recorded individual to contribute to the Bitcoin codebase), an expert on Bitcoin's operation, vocal Bitcoin advocate, and strong proponent of the availability of a Bitcoin Exchange-Traded Product (ETP).
 >
@@ -766,6 +766,15 @@ Theymos [replies and says they should not be relisted](https://github.com/bitcoi
 Samson Mow cheers and threatens Bitcoin Cash Association creator Paul Wasensteiner's arrest and [tags the SEC on Twitter.](https://twitter.com/excellion/status/1078051212052684800)
 
 >You’ll see real cheering when you and your wife go to jail for using @CNBCFastMoney to pump and dump #Bcash on noobs. @SEC_Enforcement.
+
+#### 27 May 2019
+
+Former Blockstream Cofounder Matt Corallo blocks Samson Mow on Twitter, calling it the "best decision" he's ever made and says ["I'm honestly pretty embarrassed to have helped cofound @Blockstream."](https://twitter.com/TheBlueMatt/status/1133040768531214338)
+
+He strongly crisizes the [troll culture popular at the company.](https://twitter.com/TheBlueMatt/status/1133042374320562177?s=20)
+
+>The kind of "let's be mean just because it's fun" culture exposed by a number of 
+@Blockstream folks and their management is a lot of what's wrong with (a small subset) of the Bitcoin culture.
 
 
 #### 12 December 2019
