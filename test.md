@@ -271,6 +271,30 @@ Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike 
 
 ![Greg Maxwell](https://i.imgur.com/jHPZwbP.png)
 
+#### 30 November 2015
+
+Bitstamp announces on an [AMA that they will adopt BIP 101 in December.](https://forum.bitcoin.com/post10195.html#p10195) 
+
+u/cqm responds to the wildly popular [r/bitcoin thread](https://www.reddit.com/r/Bitcoin/comments/3uu3we/bitstamp_will_switch_to_bip_101_this_december/cxi370c/) that [Theymos will ban them.](https://www.reddit.com/r/Bitcoin/comments/3uu3we/bitstamp_will_switch_to_bip_101_this_december/cxhzivx/)
+
+>up next bitstamp banned from r/bitcoin and statement from Theymos with 1200 downvotes
+
+Theymos replies that [he will indeed ban them and is heavily downvoted.](https://www.reddit.com/r/Bitcoin/comments/3uu3we/bitstamp_will_switch_to_bip_101_this_december/cxi370c/)
+
+>If they do it, then yes, they will be banned. Very disappointing. I thought that BitStamp was one of the better exchanges.
+
+Using [Removeddit we can see that nearly 10% of the comments on the thread were censored by moderators, some of them quite popular.](http://removeddit.com/r/Bitcoin/comments/3uu3we/bitstamp_will_switch_to_bip_101_this_december/)
+
+One example is a [popular comment by u/KarskOhoi,](http://removeddit.com/r/Bitcoin/comments/3uu3we/_/cxht0jq/) deleted by moderators for supporting the move away from Bitcoin Core and Blockstream.
+
+>Good news. Time to leave Blockstream Core.
+
+Another deleted comment reads:
+
+>Bitcoin is not governed by Blockstream Core. They will understand this when the BIP101 fork happens.
+
+In total, over 80 comments were removed by r/Bitcoin moderators, most of which were unfortunately deleted too quickly for the Removeeddit tool to archive.
+
 #### 26 December 2015
 
 Cobra makes a Github issue to [remove Coinbase from the "choose your wallet" page on Bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178) to punish them for running a Bitcoin XT node in addition to their Bitcoin Core node.
