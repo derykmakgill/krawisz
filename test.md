@@ -297,6 +297,46 @@ Theymos goes on the cite the largely debunked email that supposedly came from Sa
 
 >If 90% of r/Bitcoin users find these policies to be intolerable, then I want these 90% of r/Bitcoin users to leave. Both r/Bitcoin and these people will be happier for it. I do not want these people to make threads breaking the rules, demanding change, asking for upvotes, making personal attacks against moderators, etc. Without some real argument, you're not going to convince anyone with any brains -- you're just wasting your time and ours. The temporary rules against blocksize and moderation discussion are in part designed to encourage people who should leave r/Bitcoin to actually do so so that r/Bitcoin can get back to the business of discussing Bitcoin news in peace.
 
+user/MeniRosenfeld/ responds in a popular comment to argue that [discussion of forks is an integral part of Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/cu6udfe?utm_source=share&utm_medium=web2x)
+
+>...the parent post explaining theymos' policy makes no sense to me...the possibility of forking is an integral part of Bitcoin. As long as Bitcoin-XT has non-negligible support as the true Bitcoin implementation, even with nothing resembling unanimous consensus, it is a part of what Bitcoin is, and of course is on topic on a Bitcoin subreddit.
+>
+>Even if for some reason we take a purist approach that Bitcoin = Bitcoin Core, I'd imagine that most posts about Bitcoin-XT would compare it in some way to Bitcoin Core, and as such are on-topic (just like a post comparing Bitcoin and Litecoin would be on topic).
+>
+>I'm considering upgrading the above to a post, but honestly, since it includes a discussion of Bitcoin-XT, I'm not even sure it passes the moderation rules...
+
+u/tsontar writes that the [subreddit should change its name to r/bitcoincore](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/cu5ki4j?utm_source=share&utm_medium=web2x)if it will not allow discussion of competing implementations.
+
+>Please change this sub to r/bitcoincore if that's all that will be discussed here.
+>
+>Calling it r/bitcoin but banning discussions about alternative clients and consensus rules is misleading.
+>
+>There will be a lot of new clients in the coming years and one would expect r/bitcoin to be the place where cross client issues would be discussed.
+
+u/Petersurda, who is neutral on the blocksize question, p[oints out that the majority of people on the subreddit disagree with these policies](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/cu5g4xp?utm_source=share&utm_medium=web2x) and that there is clearly a double standard on the position of forks, since there had been hard forks in the past.
+
+>What I find interesting is that it looks like the majority of this subreddit readers has a different idea about what this subreddit should be about than the moderators, judging on the downvotes they get in this thread. To me that indicates a fail. The mods are basically shooting themselves in the foot, no matter how they defend it.
+>
+>I also find it curious that hard forks shouldn't be discussed. What about bitcoin-core 0.8 which caused an unintentional hard fork, or spv miners which caused a hard fork last month?
+>
+>What about the other features of bitcoin-xt like relaying double spends and allegedly better performance?
+>
+>What about other suggestions for block size increase, even from opponents of the approach of bitcoin-xt, like Pieter's recent BIP?
+>
+>Due to these inconsistencies, I find the reasoning of the mods irrational. They do not appear to have been thought through.
+>
+>I personally do not have a strong opinion regarding the block size. In cases like this, I prefer experimenting to talking, therefore I disagree the block size increase in bitcoin-xt is a bad thing. I don't know if I'll switch to it but now this option has been made easier.
+
+Another neutral Bitcoiner, [u/missdna, writes:](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/cu5h8rv?utm_source=share&utm_medium=web2x)
+
+>It's really a shame that Theymos feels too strongly about this subject to allow for debate to occur. The topic is clearly about the future of BITCOIN (calling XT an altcoin is ridiculous, clinging to semantics at best). This topic deserves to be allowed to be hashed out, and banning further discussion of it is a gross disservice to the community.
+>
+>It's censorship. It is incorrect that this is moderation to make the community a good one. I can only assume this clear censorship will catalyze a mass migration to an open platform that allows relevant Bitcoin topics to be discussed.
+>
+>I haven't picked a horse in this fight, but if Theymos is an indication on the right and wrong side of this fight, then I've just been pushed that much closer to supporting XT.
+
+For space, hundreds of interesting replies will have to be left out, but readers are encouraged to read the [full thread.](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/)
+
 #### The same day
 
 u/Jackten comments ["I cant get a single post through and everything up now is shit posts and anti-XT."](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8ofg/rbitcoin_on_lockdown_after_mod_hiatus/?utm_source=share&utm_medium=web2x)
