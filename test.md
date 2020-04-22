@@ -233,23 +233,69 @@ Cryptographer Ian Grigg [agrees.](https://twitter.com/iang_fc/status/63310925867
 
 >Turning to lawsuits recognises that we've lost the ability to consent as a community.
 
-#### 03 February 2016
+[Theymos announces a new censorship policy on r/Bitcoin](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/) that bans discussion of Bitcoin XT. The post should be read in full but some commentary is necessary.
 
-Blockstream [raises $55 Million in a Series A Funding Round,](https://www.wsj.com/articles/bitcoin-startup-blockstream-raises-55-million-in-funding-round-1454518655) one of the largest investments in a Bitcoin company ever. 
+1. Using Removeddit, [we can see that over 90 comments were censored on the post.](http://removeddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/)
 
-AXA Ventures co-leads the round. Bitcoiners are quick to point out that the [CEO of AXA, Henri de Castries, has been the Chairman of the Bilderberg Group since 2012](https://www.reddit.com/r/btc/comments/47zfzt/blockstream_is_now_controlled_by_the_bilderberg/) and that their ties to the traditional central banking industry and political aparatus are a huge conflict of interest in a cryptocurrency that was ostensibily designed to help make them less powerful.
+2. The post is one of the most popular posts on r/bitcoin ever, with over 1,000 comments. It stands now at zero upvotes, which shows how disliked it was.
 
->They are bankers and politicians and special interest VC groups who have literally everything to lose with something like Bitcoin taking prominence over their engineered financial farce conducted over 100 years. The greatest fraud in human history as far as I am concerned.
+3. Theymos suggests that Bitcoin XT does not have consensus and therefore can't be Bitcoin. His reasoning in the post is that Bitcoin core developers Wladamir, Greg, and Pieter are opposed to it. Greg and Pieter are cofounders of Blockstream.
+
+>**About XT**
 >
->They want to turn Bitcoin into a piece of legacy banking garbage. They are anti-freedom and anti-freemarket.
+>r/Bitcoin exists to serve Bitcoin. XT will, if/when its hardfork is activated, diverge from Bitcoin and create a separate network/currency. Therefore, it and services that support it should not be allowed on r/Bitcoin. In the extremely unlikely event that the vast majority of the Bitcoin economy switches to XT and there is a strong perception that XT is the true Bitcoin, then the situation will flip and we should allow only submissions related to XT. In that case, the definition of "Bitcoin" will have changed. It doesn't make sense to support two incompatible networks/currencies -- there's only one Bitcoin, and r/Bitcoin serves only Bitcoin.
+>
+>If a hardfork has near-unanimous agreement from Bitcoin experts and it's also supported by the vast majority of Bitcoin users and companies, we can predict with high accuracy that this new network/currency will take over the economy and become the new definition of Bitcoin. (Miners don't matter in this, and it's not any sort of vote.) This sort of hardfork can probably be adopted on r/Bitcoin as soon as it has been determined that the hardfork is not absolutely against the spirit of Bitcoin (inflating out-of-schedule, for example). For right now, there will always be too much controversy around any hardfork that increases the max block size, but this will probably change as there's more debate and research, and as block space actually becomes more scarce. I could see some kind of increase gaining consensus in as soon as 6 months, though it would have to be much smaller than the increase in XT for ~everyone to agree on it so soon.
+>
+>There's a substantial difference between discussion of a proposed Bitcoin hardfork (which was previously always allowed here, even though I strongly disagree with many things posted) and promoting software that is programmed to diverge into a competing network/currency. The latter is clearly against the established rules of r/Bitcoin, and while Bitcoin's technology will continue working fine no matter what people do, even the attempt at splitting Bitcoin up like this will harm the Bitcoin ecosystem and economy.
+>
+>**Why is XT considered an altcoin even though it hasn't broken away from Bitcoin yet?**
+>
+>Because it is intentionally programmed to diverge from Bitcoin, I don't consider it to be important that XT is not distinct from Bitcoin quite yet. If someone created a fork of Bitcoin Core that allowed miners to continue mining 25 BTC per block forever, would that be "Bitcoin" even though it doesn't split from the Bitcoin currency/network quite yet? (I'd say no.)
+>
+>**Can I still talk about hard fork proposals on r/Bitcoin?**
+>
+>Right now, not unless you have something really new and substantial to say.
+>
+>After this sticky is removed, it will be OK to discuss any hardfork to Bitcoin, but not any software that hardforks without consensus, since that software is not Bitcoin.
+>
+>**If XT is an altcoin then why aren't sidechains or Lightning altcoins?**
+>
+>r/Bitcoin is about the Bitcoin currency and network. Lightning allows you to move the Bitcoin currency. Sidechains are on-topic in general because they are a possibly-useful addition to the Bitcoin network. It is possible that some specific sidechains might not be on-topic -- this isn't clear to me yet.
+>
+>XT is programmed to create a separate currency and network, so it is not Bitcoin.
+>
+>**How do you know that there is no consensus?**
+>
+>Consensus is a high bar. It is not the same as a majority. In general, consensus means that there is near-unanimity. In the very particular case of a hardfork, "consensus" means "there is no noticeable probability that the hardfork will cause the Bitcoin economy to split into two or more non-negligible pieces".
+>
+>I know almost for certain that there is no consensus to the change in XT because Bitcoin core developers Wladamir, Greg, and Pieter are opposed to it. That's enough to block consensus. And it works both ways: if Gavin and Mike are strongly opposed to Pieter's BIP, then this will also block consensus on that BIP.
+>
+>Other than the core devs, big Bitcoin companies (especially Coinbase, BitPay, and exchanges) could block consensus, as could large groups of average users who are collectively capable of making reasonable arguments and exerting economic force (probably not just random unknown people complaining about nothing).
+>
+>Even though consensus is such a high bar, I think that in practice any hardfork that gets consensus among the Bitcoin Core devs and makes it into Bitcoin Core has a good chance of succeeding. But again, the developers would just be spearheading the effort, and many others could block them if necessary.
+>
+>**But with such a high bar, 8 MB blocks will be impossible!**
+>
+>If consensus can never be reached on one particular hardfork proposal, then the hardfork should never occur. Just because you want something doesn't mean that it's ever reasonable for you to hijack Bitcoin from the people who don't want it, even if your side is the majority (which it isn't in this case). This isn't some democratic country where you can always get your way with sufficient politicking. Get consensus, live without the change, or create your own altcoin.
+>
+>Hard forks are supposed to be hard. While some hard forks will probably be necessary in the long run, these hard forks will need to have consensus and be done properly or Bitcoin will die due to the economy being constantly shattered into several pieces, or as a side-effect of forcing through technically unsound changes that the majority of experts disagree with (like XT's 8MB block size).
+>
+>**Don't most experts want 8 MB blocks soon?**
+>
+>Not by any reasonable idea of "most experts" I can think of. For example, among people with expert flair on /r/Bitcoin, AFAIK any large near-term increase is opposed by nullc, petertodd, TheBlueMatt, luke-jr, pwuille, adam3us, maaku7, and laanwj. A large near-term increase is supported by gavinandresen, jgarzik, mike_hearn, and MeniRosenfeld. (Those 12 people are everyone with expert flair.)
+>
+>I've heard concerns that some experts who oppose any large near-term increase have conflicts of interest. But many of them have been expressing the same concerns for years, so it's unlikely that any recent possible conflict of interest is influencing them. Also, if they believed that increasing the max block size would help Bitcoin as a whole, what reason would they have to prevent this? I don't see the incentive.
+>
+>We don't need to trust the above list of experts, of course. But I for one have found the conservative position's arguments to be much more convincing than the huge-increase position's arguments. It's not reasonable to say, "You know a lot more than I do, and I don't see any fault in your arguments, but you must be trying to trick me due to this potential conflict of interest, so I'm going to ignore you."
 
-#### 22 February 2016
+Theymos goes on the cite the largely debunked email that supposedly came from Satoshi Nakamoto as evidence for his policies and says that if 90% of r/Bitcoin users disagree, 90% should leave.
 
-Mosaic Ventures posts an article about their participation in the investment round, stating that Bitcoin is a [technocracy governed by developers.](https://www.mosaicventures.com/mosaicblog/2016/2/4/our-investment-in-blockstream)
+>Also, someone who could be Satoshi posted here. This email address was actually used by Satoshi before he left, and the email apparently did come from that email address legitimately (not a spoof). Whether he's actually Satoshi or not, I agree with what he's saying.
 
->The governance of Bitcoin Core, like many other open source projects, is technocratic, where a handful of “core devs” (a dynamic group that includes several Blockstream team-members) deliberate the merits of various changes to the protocol, and decide how to move the puck forward, hoping to convince each other and the wider industry of their consensus. The technocracy is at least meritocratic, in the sense that the core devs are recognized -- by their peers, the community itself -- based on their significant contributions to the code.
+>If 90% of r/Bitcoin users find these policies to be intolerable, then I want these 90% of r/Bitcoin users to leave. Both r/Bitcoin and these people will be happier for it. I do not want these people to make threads breaking the rules, demanding change, asking for upvotes, making personal attacks against moderators, etc. Without some real argument, you're not going to convince anyone with any brains -- you're just wasting your time and ours. The temporary rules against blocksize and moderation discussion are in part designed to encourage people who should leave r/Bitcoin to actually do so so that r/Bitcoin can get back to the business of discussing Bitcoin news in peace.
 
-#### 16 August 2016
+
 
 u/Jackten comments ["I cant get a single post through and everything up now is shit posts and anti-XT."](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8ofg/rbitcoin_on_lockdown_after_mod_hiatus/?utm_source=share&utm_medium=web2x)
 
@@ -472,6 +518,22 @@ with old blocks pruned out on 2TB of storage.
 Greg Maxwell posts defending the [censorship in r/Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/42u1v8/core_devs_communication_has_improved_thank_you/czdesxq/)
 
 > r/btc at this moment is smoking hot proof that r/bitcoin is doing something right and that it's not just a question of moderator punishment.
+
+#### 03 February 2016
+
+Blockstream [raises $55 Million in a Series A Funding Round,](https://www.wsj.com/articles/bitcoin-startup-blockstream-raises-55-million-in-funding-round-1454518655) one of the largest investments in a Bitcoin company ever. 
+
+AXA Ventures co-leads the round. Bitcoiners are quick to point out that the [CEO of AXA, Henri de Castries, has been the Chairman of the Bilderberg Group since 2012](https://www.reddit.com/r/btc/comments/47zfzt/blockstream_is_now_controlled_by_the_bilderberg/) and that their ties to the traditional central banking industry and political aparatus are a huge conflict of interest in a cryptocurrency that was ostensibily designed to help make them less powerful.
+
+>They are bankers and politicians and special interest VC groups who have literally everything to lose with something like Bitcoin taking prominence over their engineered financial farce conducted over 100 years. The greatest fraud in human history as far as I am concerned.
+>
+>They want to turn Bitcoin into a piece of legacy banking garbage. They are anti-freedom and anti-freemarket.
+
+#### 22 February 2016
+
+Mosaic Ventures posts an article about their participation in the investment round, stating that Bitcoin is a [technocracy governed by developers.](https://www.mosaicventures.com/mosaicblog/2016/2/4/our-investment-in-blockstream)
+
+>The governance of Bitcoin Core, like many other open source projects, is technocratic, where a handful of “core devs” (a dynamic group that includes several Blockstream team-members) deliberate the merits of various changes to the protocol, and decide how to move the puck forward, hoping to convince each other and the wider industry of their consensus. The technocracy is at least meritocratic, in the sense that the core devs are recognized -- by their peers, the community itself -- based on their significant contributions to the code.
 
 #### 09 May 2016
 
