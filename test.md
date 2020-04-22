@@ -233,6 +233,8 @@ Cryptographer Ian Grigg [agrees.](https://twitter.com/iang_fc/status/63310925867
 
 >Turning to lawsuits recognises that we've lost the ability to consent as a community.
 
+#### The same day
+
 [Theymos announces a new censorship policy on r/Bitcoin](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/) that bans discussion of Bitcoin XT. The post should be read in full but some commentary is necessary.
 
 1. Using Removeddit, [we can see that over 90 comments were censored on the post.](http://removeddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/)
@@ -295,7 +297,7 @@ Theymos goes on the cite the largely debunked email that supposedly came from Sa
 
 >If 90% of r/Bitcoin users find these policies to be intolerable, then I want these 90% of r/Bitcoin users to leave. Both r/Bitcoin and these people will be happier for it. I do not want these people to make threads breaking the rules, demanding change, asking for upvotes, making personal attacks against moderators, etc. Without some real argument, you're not going to convince anyone with any brains -- you're just wasting your time and ours. The temporary rules against blocksize and moderation discussion are in part designed to encourage people who should leave r/Bitcoin to actually do so so that r/Bitcoin can get back to the business of discussing Bitcoin news in peace.
 
-
+#### The same day
 
 u/Jackten comments ["I cant get a single post through and everything up now is shit posts and anti-XT."](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8ofg/rbitcoin_on_lockdown_after_mod_hiatus/?utm_source=share&utm_medium=web2x)
 
@@ -304,6 +306,8 @@ u/Jackten comments ["I cant get a single post through and everything up now is s
 >None of my posts are getting through either. Fuck you /u/theymos, /u/starmaged, /u/thepiachu, /u/bashco, /u/frankenmint and you other retarded moderators pushing their own agenda.
 >
 >EDIT: for fuck's sake, I'm now banned from r/Bitcoin. I checked the threads I've commented in without being logged in and none of my comments show up. I've been an active contributors for more than a year and most of my karma points are from r/Bitcoin. Fuck this shit and the fucking mods holding the community hostage. They need to be removed. Does anybody know if there's a way to contact the reddit admins and have the moderators removed? I mean, this is a hostile takeover that is against much of the community's will.
+
+#### The same day
 
 On the same day popular Bitcoin webcomic artist /u/raisethelimit was given a [30 day ban](https://www.reddit.com/r/bitcoin_uncensored/comments/3h8tf2/uraisethelimit_was_banned_for_30_days_for_posting/) for “trolling” when he tried posting two of his comics there. The two comics he made are archived below.
 
