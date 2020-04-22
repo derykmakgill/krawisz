@@ -705,6 +705,13 @@ Just let that sink in a second.
 >
 >Make no mistake, bitcoin is at war.
 
+#### 19 May 2017
+
+Bitcoin Twitter personality Saifedean Ammous authors an article on the [*Economics of Bitcoin as a settlement network.*](https://thesaifhouse.wpcomstaging.com/2017/05/19/economics-of-bitcoin-as-a-settlement-network/)
+
+The article breaks precedent and argues that Bitcoin can and should become a settlement layer for central banks.
+
+>Bitcoin can support an international network of 850 central banks capable of performing daily final settlement with one another. 
 
 #### 03 July 2017
 
