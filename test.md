@@ -1013,6 +1013,18 @@ Bitcoin Core Twitter personalty Ragnar Lifthrasir helped [organize the campaign.
 
 The problem? Days before CoinMarketCap delisted Bitcoin.com the entire effort had been [dropped because they couldn't get enough supporters](https://cointelegraph.com/news/pro-btc-movement-scraps-lawsuit-against-vers-bitcoincom-citing-lack-of-funds) to say they had been mislead by Bitcoin.com and contribute to the cause. 
 
+#### 14 May 2018
+
+Popular Bitcoin podcast host, Peter McCormack, asks in r/bitcoin if someone can help him understand both sides of the scaling debate. [His post is immediately deleted.](https://twitter.com/derykmakgill/status/996110493793173504?s=20)
+
+Longtime Bitcoiner [Bryan Micon comments](https://twitter.com/BryanMicon/status/996384902089199616?s=20) in frustration and notes that r/bitcoin has become a bubble:
+
+>Censoring the mere mention of an altcoin, in a legitimate post discussing Bitcoin vs. said altcoin, is what's wrong with r/bitcoin.
+>
+>Missing the old days where ideas flowed freely there. 
+>
+>Now it's an echo chamber where wrongthink is quickly swept away.
+
 #### 21 May 2018
 
 Blockstream's Chief Strategy Officer Samson Mow asks for an [SEC investigation](https://twitter.com/Excellion/status/976628574919671808?s=20) into CNBC for discussing Bitcoin Cash and jail time.
