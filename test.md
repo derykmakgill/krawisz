@@ -895,6 +895,8 @@ They also list 'guidelines' for companies to be removed from the list. The entir
 
 The article is notable for many reasons, particularly the claim that "Segwit2x has nothing to do with Segwit."
 
+A hilariously (but accurately) titled article on BitcoinInsider says ["Bitcoin.org Plans to “Denounce” Almost All Bitcoin Businesses and Miners."](https://www.bitcoininsider.org/article/7661/bitcoinorg-plans-denounce-almost-all-bitcoin-businesses-and-miners)
+
 #### 06 October 2017
 
 [Blockstream Chief Strategy Officer Samson Mow tags the New York Department of Financial Services on Twitter](https://twitter.com/Excellion/status/916491407270879232?s=20) and asks if Coinbase is breaking any rules and engaging in fraud in supporting Segwit 2X.
