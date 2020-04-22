@@ -492,6 +492,42 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >
 >That is why we are taking steps to implement a defensive patent strategy.
 
+#### 26 February 2017
+
+Miner viaBTC writes an [article](https://imgur.com/a/jbnQ1#N4hiFJU) that asks people to unsubscribe from r/bitcoin because the subreddit is censored by people who want to turn Bitcoin into a settlement layer rather than a payment network like it has always been.
+
+It is reposted to r/bitcoin. Using Removeddit, we can see that 136 comments, over [25% of the total comments on the post, were deleted by moderators!](http://removeddit.com/r/Bitcoin/comments/5w9e8t/viabtc_aka_bitcoin_accelerator_is_telling_people/)
+
+The entire post is worth reading before we look at specific examples of censorship.
+
+>ViaBTC is of the opinion that the current "Bitcoin Core + Blockstream” Bitcoin development team is not taking satisfactory steps to ensure the growth and advancement of Bitcoin in accordance with satoshi's original white paper, and is in fact actively harming the health of the Bitcoin economy by actively stifling efforts to solve some of Bitcoin’s most pressing problems.
+>
+>The reason why this Transaction Accelerator exists is due to problems created by Bitcoin Core’s inability and unwillingness to deliver any sort of meaningful protocol upgrade over the last several years, against the desires of the Bitcoin community at large. Those who have attempted to deliver the necessary upgrade have been vilified and silenced by Bitcoin Core and their affiliated censored media channels. Average users who dare to disagree are banned and have their comments deleted.
+>
+>Rather than viewing Bitcoin as a fast, affordable, and reliable payments network, as it has been for years, they aim to transform Bitcoin into what they call “a settlement layer”, defined by high fees, unreliable transactions, and a labyrinth of complex overlays that require third-party trust on top of the basic system.
+>
+>This development team has further prevented the ability of the Bitcoin community to freely discuss this radical change of direction by tacitly, and in some cases explicitly, supporting censorship of Bitcoin’s largest discussion forums, along with the outright banning of many prominent developers, businesses, and community members who have differences of opinion with Bitcoin Core’s current roadmap. After years of stagnation, stalling, and broken promises, it has become clear that positive change will not come from Bitcoin Core, but rather from the diverse group of alternate development teams that have emerged as a result of Core’s tactics.
+>
+>The following article cites many specific examples of the rampant censorship on the "r/bitcoin" sub-reddit:
+>
+>[A (Brief and Incomplete) History of Censorship in r/bitcoin, by John Blocke](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43)
+>
+>As efforts by the community to resolve these problems have failed, it is necessary to resolve them with a different approach:
+>
+>By unsubscribing to /r/bitcoin, and subscribing to sub-reddit /r/btc you take a stand against censorship.
+By running an alternate implementation, such as Bitcoin Unlimited or Bitcoin Classic, you are casting a vote against the current development team.
+>
+>There are currently several other cryptocurrencies which perform better than Bitcoin, have more features than Bitcoin, have a more receptive and open development team than Bitcoin, and have a better upgrade path than Bitcoin. The only remaining qualities that Bitcoin has over these other cryptocurrencies are its first-mover advantage and its pre-existing network of users and infrastructure. If these qualities are not preserved, Bitcoin will continue to lose market share to competing cryptocurrencies.
+>
+>The current Bitcoin Core developers are rapidly eroding this last advantage with poor design choices, a failure to understand basic economic principles, and promoting censorship through their support of censored discussion forums and their vilification of forums committed to free speech.
+>
+>We encourage all members of the Bitcoin community to make their voices heard, and to stand up for what is right.
+>
+>Sincerely,
+>
+>ViaBTC
+
+
 #### 14 March 2017
 
 CCN publishes an article detailing a threat made by Bitcoin Core supporter Ciphera to [attack the Bitcoin Unlimited node network.](https://www.ccn.com/bitcoin-core-supporter-threatens-zero-day-exploit-bitcoin-unlimited-hardforks/)
