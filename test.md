@@ -277,7 +277,51 @@ A now-deleted user responds in the thread [confirming he was banned](https://www
 >
 >http://www.xtnodes.com
 
-#### 07 September 2015
+#### 19 August 2015 
+
+>/r/bitcoin moderator /u/jratcliff63367 makes a post to [*Let’s Talk Bitcoin titled “Confessions of an /r/bitcoin moderator.”*](https://letstalkbitcoin.com/blog/post/confessions-of-an-r-bitcoin-moderator)
+
+He observes that r/bitcoin is a centralized communication platform that is being used to push narratives.
+
+>When /u/theymos decided to use his centralized authority of /r/bitcoin to stifle all debate and discussion of bitcoin-xt, he violated a core principle. As a decentralized peer-to-peer network, any point of centralized control is problematic.
+>
+>Even though I am, for the moment, a moderator of /r//bitcoin, I hold that position solely at the discretion of its owner /u/theymos. He can remove me at any moment, and this is his right.
+>
+>This one single person holds absolute centralized control of the two largest communications platforms for the community to discuss the future and evolution of bitcoin.
+>
+>This is both a difficult and simple problem to solve at the same time. It is difficult in that the two largest forums for discussion of bitcoin are under the centralized control of a single individual. He exercises absolute power of what is, or is not, allowed to be discussed; including complete and total censorship power over the narrative in the two largest media outlets.
+>
+>On the other hand, anyone can move to another forum, or sub-reddit, with the click of a mouse. So simple, yet so difficult at the same time. How do you get 150,000 people to move to another sub-reddit or message forum? It’s not easy, but that is the only solution forward if the community wishes to continue a discussion about the future of bitcoin in a more open and transparent fashion.
+
+He then argues that Theymos is wrong about his policy of calling Bitcoin XT an altcoin:
+
+>I want to clarify some misconceptions which have been fostered over the past few days. The /r/bitcoin sub-reddit has a long history of not allowing posts about alt-coins. In general this hasn’t been super controversial.
+>
+>Since /r/bitcoin has a long history of removing posts on alt-coins, /u/theymos took a very strong stance that bitcoin-xt is ‘just another alt-coin’, ‘no different than dogecoin’. He first posted this to the private moderator mail and, later, posted it as a public policy for all to see.
+>
+>I am here to say this, loud and clear, and unequivocally, he is wrong. Either he doesn’t see the distinction, or he does, but doesn’t care.
+>
+>For whatever reason /u/theymos is profoundly against bitcoin-xt, or any increase in blocksize in general. This is his opinion. And, there are probably some valid arguments to be made on this point. The problem is, rather than sharing his opinion and engaging in the debate, he has shut down all debate by censoring the top two forums where the bitcoin community discusses these topics.
+
+The entire article is worth reading but for space I've left much of it out. He closes by asking people to debate the block size openly, not through censorship.
+
+>Bitcoin-xt is not a ‘threat’ to bitcoin. It it is an option, a choice, a candidate to be voted on. One where the community can vote on which features they want to see in bitcoin, versus those which they do not.
+>
+>The future of bitcoin is not in the hands /u/theymos, or any particular developer. The future is what we, as an informed community, decide as a whole. If you want to support 1mb blocks then, great, argue that point and vote by running that version of the client software but, if you want to see bitcoin scale, then do so by voting for a client which enables those rules.
+
+#### 29 August 2015
+
+Ten days after his anti-censorship post on Let’s Talk Bitcoin, former /r/bitcoin moderator /u/jratcliff63367 announces that he has been [removed from his role.](https://www.reddit.com/r/bitcoin_uncensored/comments/3iwzmk/so_long_and_thanks_for_all_the_fish/) In the thread, /u/theymos chimes in to explain why he removed jratcliff:
+
+>He was going beyond just expressing a reasonable opinion. He was being particularly disrespectful and nonconstructive for a long period of time. Disagreement (even loud public disagreement) is fine, but we can’t effectively moderate without some sort of respect and trust between moderators.
+
+/u/jratcliff63367 writes in the thread that he was removed because he suggested the Core developers may be compromised and that [a version of Bitcoin that can only have value flow through side channels would be exactly what governments want.](https://www.reddit.com/r/bitcoin_uncensored/comments/3iwzmk/so_long_and_thanks_for_all_the_fish/cuonqqu?utm_source=share&utm_medium=web2x)
+
+>I mentioned this in another post that I have since deleted. And that post is what, I believe, got me removed as moderator; since /u/theymos emailed me shortly after I made that post. The idea that the 'core-devs' 'control' bitcoin, is clearly very centralized thinking. And, where there is centralization, there is a point of attack.
+>
+>It is not at all unreasonable to suppose that core-devs have been contacted by the 'spooks' and are applying influence. Crippling bitcoin so that almost all of the value has to flow through side-channels and only large institutions can access the core network would be a great solution to what world governments consider as a major problem.
+
+#### 04 September 2015
 
 r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services.
 
