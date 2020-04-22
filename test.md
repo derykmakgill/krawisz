@@ -1075,6 +1075,12 @@ Samson Mow cheers and threatens Bitcoin Cash Association creator Paul Wasenstein
 
 >You’ll see real cheering when you and your wife go to jail for using @CNBCFastMoney to pump and dump #Bcash on noobs. @SEC_Enforcement.
 
+#### The same day
+
+[In a comment on a post by Vlad Zamfir,](https://medium.com/@VitalikButerin/he-imagines-a-world-in-which-crypto-political-and-legal-processes-are-necessarily-going-to-go-fb073b80dd7e) Vitalik Buterin reiterates his belief that failure to raise the block size caused huge damages to Bitcoin:
+
+>I continue to believe that Bitcoin’s *failure* to raise its blocksize by a significant amount in 2016–17 was a travesty and a great violation of many people’s expectations of the protocol, and one that led to more total losses due to excess txfees than the amount lost in the MtGox hack), but this is the argument that you need to be arguing against.
+
 #### 27 May 2019
 
 Former Blockstream Cofounder Matt Corallo blocks Samson Mow on Twitter, calling it the "best decision" he's ever made and says ["I'm honestly pretty embarrassed to have helped cofound @Blockstream."](https://twitter.com/TheBlueMatt/status/1133040768531214338)
