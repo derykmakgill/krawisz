@@ -443,7 +443,7 @@ Despite the unpopularity of the issue, it is committed the following day and Coi
 
 #### 28 December 2015. 
 
-A rogue /r/bitcoin mod going by the username /u/CensorshipIsTheWorst leaked the following conversation from the /r/Bitcoin mod-mail:
+A rogue /r/bitcoin mod going by the username /u/CensorshipIsTheWorst [leaked the following conversation from the /r/Bitcoin mod-mail:](https://www.reddit.com/r/btc/comments/3yj7r0/coinbase_censorship/)
 
 >from Aussiehash [M] to /r/Bitcoin sent 1 day ago https://np.reddit.com/r/Bitcoin/comments/3ycayp/brian_armstrong_on_twitter_coinbase_is_now/ I’ve removed this post for now. I’m happy for other mods to reverse or otherwise.
 >
