@@ -279,7 +279,7 @@ A now-deleted user responds in the thread [confirming he was banned](https://www
 
 #### 19 August 2015 
 
->/r/bitcoin moderator /u/jratcliff63367 makes a post to [*Let’s Talk Bitcoin titled “Confessions of an /r/bitcoin moderator.”*](https://letstalkbitcoin.com/blog/post/confessions-of-an-r-bitcoin-moderator)
+/r/bitcoin moderator /u/jratcliff63367 makes a post to [*Let’s Talk Bitcoin titled “Confessions of an /r/bitcoin moderator.”*](https://letstalkbitcoin.com/blog/post/confessions-of-an-r-bitcoin-moderator)
 
 He observes that r/bitcoin is a centralized communication platform that is being used to push narratives.
 
