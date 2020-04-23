@@ -1099,6 +1099,9 @@ He strongly crisizes the [troll culture popular at the company.](https://twitter
 >The kind of "let's be mean just because it's fun" culture exposed by a number of 
 @Blockstream folks and their management is a lot of what's wrong with (a small subset) of the Bitcoin culture.
 
+#### 29 May 2019
+
+Bitcoin Core influencer Tuur Demeester writes that ["at full maturity, using the Bitcoin blockchain will be as rare and specialized as chartering an oil tanker."](https://twitter.com/TuurDemeester/status/1133735055115866112?s=20)
 
 #### 12 December 2019
 
