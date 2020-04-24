@@ -1078,6 +1078,14 @@ Theymos [replies and says they should not be relisted](https://github.com/bitcoi
 
 >As far as I can tell, if they don't do anything like that again, it'll be because it's become too difficult now, not because they've learned from it. So I wouldn't re-add them unless they admit their mistakes and in particular acknowledge that Bitcoin is not governed, especially not by miners.'
 
+#### 07 November 2018
+
+Blockstream announces their release of the Liquid full node binaries & source code and claims that ["any user can join the #P2P #LiquidNetwork by operating a full node, in order to trustlessly use the #sidechain just like with the #Bitcoin"](https://twitter.com/Blockstream/status/1059886244853886987)
+
+Former co-founder of Blockstrearm Matt Corallo tweets that [this is a lie](https://twitter.com/TheBlueMatt/status/1060101587584991233?s=20).
+
+>Uhhhh, I don't really know how to describe this use of the word "trustless" except "lie". Maybe someone is trying to redefine the word?
+
 #### 26 December 2018
 
 Samson Mow cheers and threatens Bitcoin Cash Association creator Paul Wasensteiner's arrest and [tags the SEC on Twitter.](https://twitter.com/excellion/status/1078051212052684800)
