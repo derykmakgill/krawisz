@@ -59,7 +59,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-notes:
+collections: 
+  notes:
     output: true
-    permalink: /notes/:year-:month-:day-:slug
-     
+    permalink: /notes/:year/:month/:title/
