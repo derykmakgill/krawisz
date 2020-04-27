@@ -13,4 +13,4 @@ I don't check DMs.
 
 ## Physical mail
 
-You can mail me letters or packages at 4770 Ruffner St, San Diego, CA 92123. They will be forwarded to me from there!
+You can mail me letters or packages at 4770 Ruffner St, San Diego, CA 92123. They will be screened and forwarded to me from there!
