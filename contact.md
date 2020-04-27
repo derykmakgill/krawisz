@@ -5,7 +5,11 @@ title: Contact
 
 ## Email
 
-My email is deryk@makgill.ch. I don't check DMs.
+My email is deryk@makgill.ch. 
+
+I love email and I try to respond to everyone. If I don't, it is probably my fault, not yours.
+
+I don't check DMs.
 
 ## Physical mail
 
