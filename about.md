@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-I've worked in the past for [Bitcoin.com](https://bitcoin.com), [Glockstore,](https://glockstore) and as the Director of Marketing at [Praxis.](https://discoverpraxis.com) 
+I've worked in the past for [Bitcoin.com](https://bitcoin.com), [Glockstore,](https://glockstore) and [Praxis.](https://discoverpraxis.com) 
+
+Before and during that time, I did marketing and IT consulting for companies around the US.
 
 In a past life, I spoke at universities and conferences around the world on economics and education, and I helped people build careers by skipping college.
 
