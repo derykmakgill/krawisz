@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
+I'm most interested now in Bitcoin, privacy, and Operation Atlantis.
+
+## Work
+
+It is difficult to describe what I do for a living now, so I don't.
+
 I've worked in the past for [Bitcoin.com](https://bitcoin.com), [Glockstore,](https://glockstore) and [Praxis.](https://discoverpraxis.com) 
 
 Before and during that time, I did marketing and IT consulting for companies around the US.
