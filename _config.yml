@@ -52,6 +52,7 @@ minima:
 header_pages:
  - about.md
  - projects.md
+ - contact.md
 # Build settings
 theme: minima
 
