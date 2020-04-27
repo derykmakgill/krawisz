@@ -76,7 +76,7 @@ One example of a game that models reciprocal altruism is the famous Prisoner’s
 
 In this diagram, each box represents an outcome after both players have made a choice. The first item in the list for each outcome is the reward to player one, and the second is the reward to player 2. The numbers in the boxes are arbitrary—what matters only is some ordering relations between them. A more abstract (but equivalent) payoff matrix for the Prisoner’s Dilemma is this:
 
-where $Y>W>Z>X$ and $X+Y<2 W$. This second condition means that outcome $W$ is preferable to equal odds of outcome $X$ and $Y$.
+where <code>$Y>W>Z>X$</code> and <code>$X+Y<2 W$</code>. This second condition means that outcome $W$ is preferable to equal odds of outcome $X$ and $Y$.
 
 <img class="img-fluid d-block mx-auto my-4" src="/static/img/docs/reciprocal-altruism-in-the-theory-of-money/matrix-2.svg">
 
@@ -90,26 +90,25 @@ Before talking about specific strategies, however, we have to talk about how to 
 
 where $R$ is some rate that determines how quickly the value of future rewards declines. This rate could be interpreted as a probability, or as a rate of time preference, or as a combination of both.
 
--Always cooperate.
+- Always cooperate.
 
--Always defect.
+- Always defect.
 
--Tit-for-tat: the player cooperates on the first round and subsequently repeats whatever the opponent did on the previous round. This can be thought of as a strategy which punishes defection and rewards cooperation. Tit-for-tat is actually known to win out against a very complex array of strategies, not just the very simple ones considered here.
-
--Alternating: the player defects on the first move and subsequently alternates between cooperation and defection each turn. (This strategy is going to be important later on.)
-
+- Tit-for-tat: the player cooperates on the first round and subsequently repeats whatever the opponent did on the previous round. This can be thought of as a strategy which punishes defection and rewards cooperation. Tit-for-tat is actually known to win out against a very complex array of strategies, not just the very simple ones considered here.
+ 
+- Alternating: the player defects on the first move and subsequently alternates between cooperation and defection each turn. (This strategy is going to be important later on.)
 
 Other simple strategies are possible, but they aren’t interesting theoretically because they are neither successful nor do they make any intuitive sense either. I will not go through all the game theory mathematics but merely state some results<sup><a href="#vii" id="ref-vii">vii</a></sup>.
 
--Cooperation and tit-for-tat do equally well against one another.
+- Cooperation and tit-for-tat do equally well against one another.
 
--As long as no one plays tit-for-tat, defectors always do better than cooperators. This means that in a population of cooperators, if a single defector evolves, its strategy will propagate through the entire population until everyone is a defector.
+- As long as no one plays tit-for-tat, defectors always do better than cooperators. This means that in a population of cooperators, if a single defector evolves, its strategy will propagate through the entire population until everyone is a defector.
 
--If $R$ is low enough, then defection succeeds no matter the composition of the population.
+- If $R$ is low enough, then defection succeeds no matter the composition of the population.
 
--On the other hand, if $R$ is high enough, then a single defector does poorly in a population of tit-for-tatters.
+- On the other hand, if $R$ is high enough, then a single defector does poorly in a population of tit-for-tatters.
 
--A single tit-for-tatter does poorly in a population of defectors no matter how high $R$ is (it cannot be greater than one).
+- A single tit-for-tatter does poorly in a population of defectors no matter how high $R$ is (it cannot be greater than one).
 
 The gist of these results is that a population will always either end up all defectors or all tit-for-tatters, depending on $R$ and on the initial composition of the population. If tit-for-tat wins out, then it is indistinguishable from a population of cooperators because no one ever needs to be punished. Every round looks like pure altruism.
 
