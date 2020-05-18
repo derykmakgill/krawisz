@@ -2,6 +2,7 @@
 layout: post
 title: Reciprocal Altruism in the Theory of Money
 permalink: reciprocal-altruism
+exerpt: That monetary behavior is a form of altruism, and of reciprocal altruism in particular, has been demonstrated by relating the properties of money to the definition of reciprocal altruism and to its required features. The theory of reciprocal altruism is not, however, a complete theory of money. It leaves some things out.
 ---
 
 ## Methodological Issues
