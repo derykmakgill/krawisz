@@ -259,4 +259,3 @@ Second, the value of money can change relative to the entire economy. In other a
 	</li>
 </ol>
 
-</span>
