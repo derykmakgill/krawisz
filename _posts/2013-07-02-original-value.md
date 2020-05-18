@@ -2,7 +2,7 @@
 layout: post
 title: The Original Value of Bitcoins
 permalink: original-value
-excerpt: "From the standpoint of the [Austrian School](http://en.wikipedia.org/wiki/Austrian_School) of economics the most puzzling aspect of the Bitcoin network is its relationship with the [regression theorem](http://mises.org/humanaction/chap17sec4.asp), the Austrian economists' explanation of the origin of money."
+excerpt: From the standpoint of the Austrian School of economics the most puzzling aspect of the Bitcoin network is its relationship with the regression theorem, the Austrian economists' explanation of the origin of money.
 ---
 
 ## The Regression Theorem
