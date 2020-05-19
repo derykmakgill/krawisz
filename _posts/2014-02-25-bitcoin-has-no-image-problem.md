@@ -2,7 +2,7 @@
 layout: post
 title: Bitcoin Has No Image Problem
 permalink: bitcoin-has-no-image-problem
-excerpt:Bitcoin has an image problem! Everyone thinks Bitcoin is for drug dealers, hackers, and anarchists. It’s used to gamble and buy porn. People think it’s a Ponzi scheme! Bitcoin needs to grow up and repudiate its youthful indiscretions. Its services must be run by professionals, not amateurs!1 Soccer moms will never use Bitcoin if they think it’s used for drugs and porn. Bitcoin will never be acceptable and gain widespread adoption otherwise! In this article, I will show why this is totally misguided.
+excerpt: "Bitcoin has an image problem! Everyone thinks Bitcoin is for drug dealers, hackers, and anarchists. It’s used to gamble and buy porn. People think it’s a Ponzi scheme! Bitcoin needs to grow up and repudiate its youthful indiscretions. Its services must be run by professionals, not amateurs!1 Soccer moms will never use Bitcoin if they think it’s used for drugs and porn. Bitcoin will never be acceptable and gain widespread adoption otherwise! In this article, I will show why this is totally misguided."
 image: https://nakamotoinstitute.org/static/img/mempool/bitcoin-has-no-image-problem/bag-head.jpg
 ---
 
