@@ -2,13 +2,13 @@
 layout: post
 title: Hyperbitcoinization
 permalink: hyperbitcoinization
-excerpt: This article is about the possibility of Bitcoin-induced currency demonetization, or hyperbitcoinization, which is what would happen to any hapless currency that stands in Bitcoin's path of [total world domination](/mempool/why-bitcoin-will-continue-to-grow). If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
+excerpt: This article is about the possibility of Bitcoin-induced currency demonetization, or hyperbitcoinization, which is what would happen to any hapless currency that stands in Bitcoin's path of total world domination. If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
 image: https://nakamotoinstitute.org/static/img/mempool/hyperbitcoinization/Bitcoinbody.png
 ---
 
 ## Bitcoin-Induced Demonetization
 
-This article is about the possibility of Bitcoin-induced currency demonetization, or _hyperbitcoinization_, which is what would happen to any hapless currency that stands in Bitcoin's path of [total world domination](/mempool/why-bitcoin-will-continue-to-grow). If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
+This article is about the possibility of Bitcoin-induced currency demonetization, or _hyperbitcoinization_, which is what would happen to any hapless currency that stands in Bitcoin's path of [total world domination](/why-bitcoin-will-continue-to-grow). If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
 
 ## Comparison to Hyperinflation
 
