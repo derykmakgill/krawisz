@@ -3,6 +3,7 @@ layout: post
 title: The Proof-of-Work Concept
 permalink: the-proof-of-work-concept
 excerpt: Perhaps the least intuitive aspect of the Bitcoin network is the proof-of-work. concept it uses to define the requirement for the generation of a new set of transactions to be added to the distributed transaction database. This concept, which grew out of ideas from the early cypherpunk movement, is new to monetary theory and feels a little out of place in computer science too. I will show that biology gives us the most suitable framework for understanding it.
+image: https://nakamotoinstitute.org/static/img/mempool/the-proof-of-work-concept/peacock.jpg
 ---
 
 ## The Search
