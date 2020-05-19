@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: The Coming Demise of the Altcoins (And What You Can Do to Hasten It)
 permalink: the-coming-demise-of-altcoins
 excerpt: "This article explains why there is a tendency towards a single dominant currency, why the network effect overwhelmingly favors Bitcoin above any of its competitors, and why people should speak out against altcoins rather than allow more people to get fooled by them."
