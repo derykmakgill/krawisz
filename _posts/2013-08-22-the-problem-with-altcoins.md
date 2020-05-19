@@ -9,7 +9,7 @@ image: https://nakamotoinstitute.org/static/img/mempool/the-problem-with-altcoin
 
 New ideas attract not only visionaries and pioneers but also charlatans and fools. The former group understands the nature and potential of the new idea and attempts to extend it in new ways. The latter observes the success of the former and expects similar results through blind imitation and empty hope, rather like the Melanesian [cargo cults](http://en.wikipedia.org/wiki/Cargo_cult) which arose after World War II when the American military abandoned its airports there.
 
-<div class="my-4 text-center">![The litecoiners of aeronautics](/static/img/mempool/the-problem-with-altcoins/cargo-cult.jpg)
+![The litecoiners of aeronautics](/static/img/mempool/the-problem-with-altcoins/cargo-cult.jpg)
 
 _The litecoiners of aeronautics_
 
@@ -23,11 +23,11 @@ The Bitcoin community is not just overwhelmingly larger but of overwhelmingly be
 
 ## Motivated reasoning
 
-<div class="my-4 text-center">![Altcoiners obsessing over Cryptsy's exchange rates](/static/img/mempool/the-problem-with-altcoins/altcoiners.png)
+![Altcoiners obsessing over Cryptsy's exchange rates](/static/img/mempool/the-problem-with-altcoins/altcoiners.png)
 
 _Altcoiners obsessing over Cryptsy's exchange rates_
 
-</div>
+
 
 What is a cryptocurrency actually for? I say that its purpose is to become money. It is obvious that creating altcoins impedes that purpose. Altcoins can only be explained if we believe the purpose of cryptocurrencies is to _make_ money rather than to _become_ money. If you can trick people into investing in your new altcoin, then you can make a profit trading it or mining and selling it. All the arguments of the altcoin promoters serve as misdirection from [that basic purpose](http://en.wikipedia.org/wiki/Motivated_reasoning). They have developed a series of fallacies capable of fooling newcomers into joining them, but they are all disingenuous.
 
@@ -81,11 +81,10 @@ There is a class of very similar cryptocurrencies that rely on an algorithm call
 
 When Bitcoin first came out, it was possible for anyone to mine coins with his CPU. Once software was developed that mined using GPUs, then CPU mining quickly became obsolete. GPU mining remained profitable for some time thereafter because the price of Bitcoin continued to increase as more people became miners. This could not persist indefinitely, and eventually there began work into the development of FPGA and ASIC mining. Once these technologies were developed, GPU mining would become obsolete as well.
 
-<div class="my-4 text-center">![The Golden Age of mining, according to altcoiners](/static/img/mempool/the-problem-with-altcoins/mining.jpg)
+![The Golden Age of mining, according to altcoiners](/static/img/mempool/the-problem-with-altcoins/mining.jpg)
 
 _The Golden Age of mining, according to altcoiners_
 
-</div>
 
 However, some miners who had heavily invested in GPUs did not wish to see this happen and didn't want their investments in GPUs to go sour. Obviously, this was a vain hope. It cannot be expected that it should be possible to run an ordinary computer at a profit for very long. Profits draw more investors, which leads to lower profits as the available opportunities are used up.
 
@@ -163,7 +162,6 @@ _[Update 8/25/2013: the Freicoin was altered from an earlier version to correct 
 
 _[Update 8/28/2013: two citations added. Last paragraph added to section on competition.]_
 
-<div class="footnote">
 
 * * *
 
