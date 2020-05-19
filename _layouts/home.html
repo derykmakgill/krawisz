@@ -31,6 +31,17 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+        
+             {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.alt }}">
+          
+        </a>
+       </div>  
+      {% endif %} 
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
