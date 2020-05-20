@@ -60,6 +60,6 @@ plugins:
  - jekyll-seo-tag
 
 collections: 
-  notes:
+  videos:
     output: true
-    permalink: /notes/:year/:month/:title/
+    permalink: /videos/:path
