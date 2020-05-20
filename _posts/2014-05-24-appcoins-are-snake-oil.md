@@ -2,7 +2,7 @@
 layout: post
 title: Appcoins Are Snake Oil
 permalink: appcoins-are-snake-oil
-excerpt:  appcoins should not be considered a valid investment and are inappropriate as a means of funding open-source projects. Furthermore, once the arguments in this essay become well enough understood by investors, that it will be impossible to fund a project by selling an appcoin because the price will rapidly tend to zero.
+excerpt:  Appcoins should not be considered a valid investment and are inappropriate as a means of funding open-source projects. Furthermore, once the arguments in this essay become well enough understood by investors, that it will be impossible to fund a project by selling an appcoin because the price will rapidly tend to zero.
 image: https://nakamotoinstitute.org/static/img/mempool/appcoins-are-snake-oil/rube-goldberg.jpg
 ---
 
