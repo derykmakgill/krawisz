@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin is the Best Unit of Accoun
+title: Bitcoin is the Best Unit of Account
 permalink: bitcoin-is-the-best-unit-of-account
 excerpt: Someone still lost in the dollar world looks at Bitcoin and sees wild and extreme volatility, whereas someone in Bitcoin looking back at the dollar sees the worst and longest economic crash in history.
 ---
