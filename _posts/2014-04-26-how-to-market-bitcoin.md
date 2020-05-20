@@ -1,5 +1,5 @@
 ---
-layout: [pst
+layout: post
 title: How to Market Bitcoin
 permalink: how-to-market-bitcoin
 excerpt: Does Bitcoin need to be sanitized and separated from its anarchist, black-market roots in order to become acceptable to the general population? Must Bitcoin become an upstanding citizen and saddle itself with KYC requirements and capital controls? Absolutely not! 
