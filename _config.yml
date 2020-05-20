@@ -62,4 +62,4 @@ plugins:
 collections: 
   videos:
     output: true
-    permalink: /videos/:path
+    permalink: /:path
