@@ -1,11 +1,11 @@
 title: Daniel Krawisz
 author: 
-  name:  Daniel Krawisz
-  email: deryk@makgill.ch
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  name: 
+  email: 
+#description: > # this means to ignore newlines until "show_excerpts:"
+ # Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
   
 show_excerpts: true # set to true to show excerpts on the homepage
 permalink: pretty
@@ -16,7 +16,7 @@ minima:
 
   # generate social links in footer
 #  social_links:
-    #twitter: derykmakgill
+    twitter: danielkrawisz
     #github:  derykmakgill
     # devto: jekyll
     # dribbble: jekyll
@@ -26,9 +26,9 @@ minima:
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+     youtube_channel: UC43D9FHfQc4uj7HZAhX97Rg
     # youtube_channel_name: CloudCannon
-    # telegram: makgill
+     telegram: danielkrawisz
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
